@@ -1,8 +1,6 @@
----@alias AnyEntity Entity | NPC | Quest | Item | Skill
-
----@param base AnyEntity[]
----@param diff AnyEntity[]
----@return AnyEntity[]
+---@param base Entity[]
+---@param diff Entity[]
+---@return Entity[]
 local function patch(base, diff) -- TODO Optimize: replace linear arrays by associative arrays
     ---@type table<number, Entity>
     local id_to_entity = {}
@@ -26,9 +24,9 @@ TRADE_SKILLS_DATA["MIN_PATCH_LEVEL"] = TRADE_SKILLS_DATA_TURTLE["MIN_PATCH_LEVEL
 TRADE_SKILLS_DATA["MAX_PATCH_LEVEL"] = TRADE_SKILLS_DATA_TURTLE["MAX_PATCH_LEVEL"]
 TRADE_SKILLS_DATA["CURRENT_PATCH_LEVEL"] = TRADE_SKILLS_DATA_TURTLE["CURRENT_PATCH_LEVEL"]
 
-for _, profession_id in pairs({"Blacksmithing", "Engineering", "Leatherworking", "Tailoring"}) do
+for _, profession in pairs({"Blacksmithing", "Engineering", "Leatherworking", "Tailoring"}) do
     for _, category in pairs({"items", "skills"}) do
-        TRADE_SKILLS_DATA[category][profession_id] = patch(TRADE_SKILLS_DATA[category][profession_id], TRADE_SKILLS_DATA_TURTLE[category][profession_id])
+        TRADE_SKILLS_DATA[category][profession] = patch(TRADE_SKILLS_DATA[category][profession], TRADE_SKILLS_DATA_TURTLE[category][profession])
     end
 end
 
