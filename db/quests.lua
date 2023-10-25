@@ -1,6 +1,28 @@
 TRADE_SKILLS_DATA_TURTLE["quests"] =
     {
         {
+            ["id"] = 40873,
+            ["min_xp_level"] = 55,
+            ["name"] = {
+                ["English"] = "The Recipe of Dreamshard Elixir",
+            },
+            ["npcs"] = {
+                61485,
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 40874,
+            ["min_xp_level"] = 55,
+            ["name"] = {
+                ["English"] = "The Recipe of Lucidity Potion",
+            },
+            ["npcs"] = {
+                61485,
+            },
+            ["phase"] = 1,
+        },
+        {
             ["id"] = 40875,
             ["min_xp_level"] = 55,
             ["name"] = {

@@ -24,7 +24,16 @@ TRADE_SKILLS_DATA["MIN_PATCH_LEVEL"] = TRADE_SKILLS_DATA_TURTLE["MIN_PATCH_LEVEL
 TRADE_SKILLS_DATA["MAX_PATCH_LEVEL"] = TRADE_SKILLS_DATA_TURTLE["MAX_PATCH_LEVEL"]
 TRADE_SKILLS_DATA["CURRENT_PATCH_LEVEL"] = TRADE_SKILLS_DATA_TURTLE["CURRENT_PATCH_LEVEL"]
 
-for _, profession in pairs({"Blacksmithing", "Engineering", "First Aid", "Leatherworking", "Tailoring"}) do
+local professions = {
+    "Alchemy",
+    "Blacksmithing",
+    "Engineering",
+    "First Aid",
+    "Leatherworking",
+    "Tailoring",
+}
+
+for _, profession in pairs(professions) do
     for _, category in pairs({"items", "skills"}) do
         TRADE_SKILLS_DATA[category][profession] = patch(TRADE_SKILLS_DATA[category][profession], TRADE_SKILLS_DATA_TURTLE[category][profession])
     end
