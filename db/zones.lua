@@ -22,4 +22,15 @@ TRADE_SKILLS_DATA_TURTLE["zones"] =
                 ["max"] = 60,
             },
         },
+        {
+            ["cont_id"] = 5,
+            ["id"] = 100002,
+            ["name"] = {
+                ["English"] = "Emerald Sanctum",
+            },
+            ["levels"] = {
+                ["min"] = 60,
+                ["max"] = 60,
+            },
+        },
     }

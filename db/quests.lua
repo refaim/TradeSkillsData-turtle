@@ -1,6 +1,39 @@
 TRADE_SKILLS_DATA_TURTLE["quests"] =
     {
         {
+            ["id"] = 40888,
+            ["min_xp_level"] = 55,
+            ["name"] = {
+                ["English"] = "Dreamsteel Leggings",
+            },
+            ["npcs"] = {
+                61491,
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 40889,
+            ["min_xp_level"] = 55,
+            ["name"] = {
+                ["English"] = "Dreamsteel Bracers",
+            },
+            ["npcs"] = {
+                61491,
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 40890,
+            ["min_xp_level"] = 55,
+            ["name"] = {
+                ["English"] = "Dreamsteel Boots",
+            },
+            ["npcs"] = {
+                61491,
+            },
+            ["phase"] = 1,
+        },
+        {
             ["id"] = 41111,
             ["min_xp_level"] = 55,
             ["name"] = {
@@ -8,6 +41,17 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             },
             ["npcs"] = {
                 61485,
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 41119,
+            ["min_xp_level"] = 60,
+            ["name"] = {
+                ["English"] = "Plans: Ornate Bloodstone Dagger",
+            },
+            ["npcs"] = {
+                61616,
             },
             ["phase"] = 1,
         },

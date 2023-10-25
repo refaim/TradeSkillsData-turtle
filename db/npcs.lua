@@ -397,25 +397,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["zone_id"] = 16,
         },
         {
-            ["faction_id"] = 56,
-            ["id"] = 10812,
-            ["location"] = {
-                ["x"] = "-",
-                ["y"] = "-",
-            },
-            ["name"] = {
-                ["English"] = "Grand Crusader Dathrohan",
-            },
-            ["phase"] = 1,
-            ["reacts"] = "Hostile",
-            ["xp_level"] = {
-                ["is_elite"] = 1,
-                ["max"] = 62,
-                ["min"] = 62,
-            },
-            ["zone_id"] = 2017,
-        },
-        {
             ["id"] = 11339,
             ["location"] = {
                 ["x"] = "-",
@@ -606,6 +587,20 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
                 ["is_elite"] = 1,
                 ["max"] = 63,
                 ["min"] = 63,
+            },
+            ["zone_id"] = 100000,
+        },
+        {
+            ["id"] = 61491,
+            ["name"] = {
+                ["English"] = "Tanthos Everbreeze",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Neutral",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 58,
+                ["min"] = 58,
             },
             ["zone_id"] = 100000,
         },
@@ -970,6 +965,34 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
                 ["is_elite"] = 1,
                 ["max"] = 61,
                 ["min"] = 61,
+            },
+            ["zone_id"] = 100001,
+        },
+        {
+            ["id"] = 60748,
+            ["name"] = {
+                ["English"] = "Solnius",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 63,
+                ["min"] = 63,
+            },
+            ["zone_id"] = 100002,
+        },
+        {
+            ["id"] = 61319,
+            ["name"] = {
+                ["English"] = "Master Blacksmith Rolfen",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 62,
+                ["min"] = 62,
             },
             ["zone_id"] = 100001,
         },

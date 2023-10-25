@@ -380,4 +380,235 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
                 },
             },
         },
+        {
+            ["id"] = 62004,
+            ["name"] = {
+                ["English"] = "Plans: Fiery Chain Breastplate",
+            },
+            ["phase"] = 1,
+            ["quality"] = "epic",
+            ["vendors"] = {
+                ["price"] = 120000,
+                ["sources"] = {
+                    12944,
+                },
+            },
+            ["reputation"] = {
+                ["faction_id"] = 59,
+                ["level_id"] = 8,
+            },
+        },
+        {
+            ["id"] = 61424,
+            ["name"] = {
+                ["English"] = "Plans: Dreamsteel Mantle",
+            },
+            ["phase"] = 1,
+            ["quality"] = "epic",
+            ["drops"] = {
+                ["sources"] = {
+                    60748,
+                },
+            },
+        },
+        {
+            ["id"] = 61425,
+            ["name"] = {
+                ["English"] = "Plans: Dreamsteel Leggings",
+            },
+            ["phase"] = 1,
+            ["quality"] = "epic",
+            ["quests"] = {
+                40888,
+            },
+        },
+        {
+            ["id"] = 61426,
+            ["name"] = {
+                ["English"] = "Plans: Dreamsteel Bracers",
+            },
+            ["phase"] = 1,
+            ["quality"] = "epic",
+            ["quests"] = {
+                40889,
+            },
+        },
+        {
+            ["id"] = 61427,
+            ["name"] = {
+                ["English"] = "Plans: Dreamsteel Boots",
+            },
+            ["phase"] = 1,
+            ["quality"] = "epic",
+            ["quests"] = {
+                40890,
+            },
+        },
+        {
+            ["id"] = 61178,
+            ["name"] = {
+                ["English"] = "Plans: Thorium Spurs",
+            },
+            ["phase"] = 1,
+            ["quality"] = "rare",
+            ["drops"] = {
+                ["sources"] = {
+                    61191,
+                    61192,
+                    61193,
+                    61194,
+                    61195,
+                    61196,
+                    61197,
+                    61198,
+                    61199,
+                    61200,
+                    61201,
+                    61203,
+                    61204,
+                    61205,
+                    61206,
+                    61207,
+                    61208,
+                    61209,
+                    61210,
+                    61211,
+                    61221,
+                    61222,
+                    61223,
+                    61224,
+                    61225,
+                },
+            },
+        },
+        {
+            ["id"] = 61799,
+            ["name"] = {
+                ["English"] = "Plans: Ornate Bloodstone Dagger",
+            },
+            ["phase"] = 1,
+            ["quality"] = "epic",
+            ["quests"] = {
+                41119,
+            },
+        },
+        {
+            ["id"] = 62002,
+            ["name"] = {
+                ["English"] = "Plans: Pauldrons of the Timbermaw",
+            },
+            ["phase"] = 1,
+            ["quality"] = "common",
+            ["vendors"] = {
+                ["price"] = 40000,
+                ["sources"] = {
+                    11557,
+                },
+            },
+            ["reputation"] = {
+                ["faction_id"] = 576,
+                ["level_id"] = 7,
+            },
+        },
+        {
+            ["id"] = 62001,
+            ["name"] = {
+                ["English"] = "Plans: Fury of the Timbermaw",
+            },
+            ["phase"] = 1,
+            ["quality"] = "common",
+            ["vendors"] = {
+                ["price"] = 22000,
+                ["sources"] = {
+                    11557,
+                },
+            },
+            ["reputation"] = {
+                ["faction_id"] = 576,
+                ["level_id"] = 6,
+            },
+        },
+        {
+            ["id"] = 61807,
+            ["name"] = {
+                ["English"] = "Plans: Towerforge Breastplate",
+            },
+            ["phase"] = 1,
+            ["quality"] = "epic",
+            ["drops"] = {
+                ["sources"] = {
+                    61319,
+                },
+            },
+        },
+        {
+            ["id"] = 61806,
+            ["name"] = {
+                ["English"] = "Plans: Towerforge Pauldrons",
+            },
+            ["phase"] = 1,
+            ["quality"] = "epic",
+            ["drops"] = {
+                ["sources"] = {
+                    61319,
+                },
+            },
+        },
+        {
+            ["id"] = 61808,
+            ["name"] = {
+                ["English"] = "Plans: Towerforge Crown",
+            },
+            ["phase"] = 1,
+            ["quality"] = "epic",
+            ["drops"] = {
+                ["sources"] = {
+                    61319,
+                },
+            },
+        },
+        {
+            ["id"] = 61805,
+            ["name"] = {
+                ["English"] = "Plans: Towerforge Demolisher",
+            },
+            ["phase"] = 1,
+            ["quality"] = "epic",
+            ["drops"] = {
+                ["sources"] = {
+                    61319,
+                },
+            },
+        },
+        {
+            ["id"] = 61189,
+            ["name"] = {
+                ["English"] = "Plans: Dawnstone Hammer",
+            },
+            ["phase"] = 1,
+            ["quality"] = "epic",
+            ["drops"] = {
+                ["sources"] = {
+                    61221,
+                    61222,
+                    61223,
+                    61224,
+                    61225,
+                },
+            },
+        },
+        {
+            ["id"] = 83500,
+            ["name"] = {
+                ["English"] = "Plans: Untempered Runeblade",
+            },
+            ["phase"] = 1,
+            ["quality"] = "rare",
+            ["drops"] = {
+                ["sources"] = {
+                    10812,
+                    10813,
+                },
+            },
+        },
     }

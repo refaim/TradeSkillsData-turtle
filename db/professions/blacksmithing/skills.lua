@@ -388,4 +388,178 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             },
             ["phase"] = 1,
         },
+        {
+            ["id"] = 54009,
+            ["items"] = {
+                62004,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Fiery Chain Breastplate",
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 45465,
+            ["items"] = {
+                61424,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Dreamsteel Mantle",
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 45467,
+            ["items"] = {
+                61425,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Dreamsteel Leggings",
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 45469,
+            ["items"] = {
+                61426,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Dreamsteel Bracers",
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 45471,
+            ["items"] = {
+                61427,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Dreamsteel Boots",
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 57113,
+            ["items"] = {
+                61178,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Thorium Spurs",
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 46657,
+            ["items"] = {
+                61799,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Ornate Bloodstone Dagger",
+            },
+            ["phase"] = 1,
+            ["specialisation"] = 9787,
+        },
+        {
+            ["id"] = 54005,
+            ["items"] = {
+                62002,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Pauldrons of the Timbermaw",
+            },
+            ["phase"] = 1,
+            ["specialisation"] = 9788,
+        },
+        {
+            ["id"] = 54003,
+            ["items"] = {
+                62001,
+            },
+            ["min_skill"] = 290,
+            ["name"] = {
+                ["English"] = "Fury of the Timbermaw",
+            },
+            ["phase"] = 1,
+            ["specialisation"] = 9788,
+        },
+        {
+            ["id"] = 57189,
+            ["items"] = {
+                61807,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Towerforge Breastplate",
+            },
+            ["phase"] = 1,
+            ["specialisation"] = 9788,
+        },
+        {
+            ["id"] = 57191,
+            ["items"] = {
+                61806,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Towerforge Pauldrons",
+            },
+            ["phase"] = 1,
+            ["specialisation"] = 9788,
+        },
+        {
+            ["id"] = 57187,
+            ["items"] = {
+                61808,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Towerforge Crown",
+            },
+            ["phase"] = 1,
+            ["specialisation"] = 9788,
+        },
+        {
+            ["id"] = 57193,
+            ["items"] = {
+                61805,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Towerforge Demolisher",
+            },
+            ["phase"] = 1,
+            ["specialisation"] = 17040,
+        },
+        {
+            ["id"] = 45487,
+            ["items"] = {
+                61189,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Dawnstone Hammer",
+            },
+            ["phase"] = 1,
+            ["specialisation"] = 17040,
+        },
+        {
+            ["id"] = 46652,
+            ["items"] = {
+                83500,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Untempered Runeblade",
+            },
+            ["phase"] = 1,
+            ["specialisation"] = 17039,
+        },
     }
