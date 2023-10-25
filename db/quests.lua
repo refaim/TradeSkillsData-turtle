@@ -78,6 +78,39 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             ["phase"] = 1,
         },
         {
+            ["id"] = 40902,
+            ["min_xp_level"] = 55,
+            ["name"] = {
+                ["English"] = "Dreamhide Belt",
+            },
+            ["npcs"] = {
+                61492,
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 40904,
+            ["min_xp_level"] = 55,
+            ["name"] = {
+                ["English"] = "Dreamhide Gloves",
+            },
+            ["npcs"] = {
+                61492,
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 40903,
+            ["min_xp_level"] = 55,
+            ["name"] = {
+                ["English"] = "Dreamhide Bracers",
+            },
+            ["npcs"] = {
+                61492,
+            },
+            ["phase"] = 1,
+        },
+        {
             ["id"] = 41111,
             ["min_xp_level"] = 55,
             ["name"] = {

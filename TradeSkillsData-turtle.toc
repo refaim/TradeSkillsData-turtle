@@ -2,7 +2,7 @@
 ## Title: TradeSkillsData [|cff3fcf26Turtle|r]
 ## Author: Refaim
 ## Notes: A Turtle WoW database extension for TradeSkillsData
-## Version: 1.5.0
+## Version: 1.6.0
 ## Dependencies: TradeSkillsData
 
 data.lua

@@ -281,4 +281,70 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             },
             ["phase"] = 2,
         },
+        {
+            ["id"] = 54011,
+            ["items"] = {
+                62005,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Flarecore Boots",
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 45485,
+            ["items"] = {
+                61190,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Gloves of Unwinding Mystery",
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 45457,
+            ["items"] = {
+                61432,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Dreamthread Mantle",
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 45459,
+            ["items"] = {
+                61433,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Dreamthread Kilt",
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 45461,
+            ["items"] = {
+                61434,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Dreamthread Bracers",
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 45463,
+            ["items"] = {
+                61435,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Dreamthread Gloves",
+            },
+            ["phase"] = 1,
+        },
     }

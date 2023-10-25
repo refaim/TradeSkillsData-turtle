@@ -1010,4 +1010,18 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             },
             ["zone_id"] = 100000,
         },
+        {
+            ["id"] = 61492,
+            ["name"] = {
+                ["English"] = "Jancel Stardust",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Neutral",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 58,
+                ["min"] = 58,
+            },
+            ["zone_id"] = 100000,
+        },
     }
