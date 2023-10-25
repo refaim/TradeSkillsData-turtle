@@ -2,7 +2,7 @@
 ## Title: TradeSkillsData [|cff3fcf26Turtle|r]
 ## Author: Refaim
 ## Notes: A Turtle WoW database extension for TradeSkillsData
-## Version: 1.1.0
+## Version: 1.2.0
 ## Dependencies: TradeSkillsData
 
 data.lua
@@ -10,6 +10,7 @@ data.lua
 db\factions.lua
 db\npcs.lua
 db\quests.lua
+db\zones.lua
 
 db\professions\blacksmithing\items.lua
 db\professions\blacksmithing\skills.lua

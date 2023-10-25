@@ -7,6 +7,10 @@ Used in [MissingTradeSkillsList](https://github.com/refaim/MissingTradeSkillsLis
 
 ## Version History
 
+### v1.2.0 (Oct 25, 2023)
+* Engineering: Add recipes from 1.17.0 patch notes
+* Fix zone patching
+
 ### v1.1.0 (Oct 25, 2023)
 * Blacksmithing: Add belt buckle recipes
  

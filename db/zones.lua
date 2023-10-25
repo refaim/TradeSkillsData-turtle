@@ -1,18 +1,25 @@
-local turtle_zone_id_start = 99999
-
-TRADE_SKILLS_DATA_TURTLE_ZONE_ID_HYJAL = turtle_zone_id_start + 1
-
 TRADE_SKILLS_DATA_TURTLE["zones"] =
-{
     {
-        ["cont_id"] = 1,
-        ["id"] = TRADE_SKILLS_DATA_TURTLE_ZONE_ID_HYJAL,
-        ["name"] = {
-            ["English"] = "Hyjal",
+        {
+            ["cont_id"] = 1,
+            ["id"] = 100000,
+            ["name"] = {
+                ["English"] = "Hyjal",
+            },
+            ["levels"] = {
+                ["min"] = 60,
+                ["max"] = 60,
+            },
         },
-        ["levels"] = {
-            ["min"] = 60,
-            ["max"] = 60,
+        {
+            ["cont_id"] = 4,
+            ["id"] = 100001,
+            ["name"] = {
+                ["English"] = "Karazhan",
+            },
+            ["levels"] = {
+                ["min"] = 60,
+                ["max"] = 60,
+            },
         },
-    },
-}
+    }

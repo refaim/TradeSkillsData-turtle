@@ -44,4 +44,15 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Engineering"] =
             },
             ["phase"] = 1,
         },
+        {
+            ["id"] = 45481,
+            ["items"] = {
+                61191,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Intricate Gyroscope Goggles",
+            },
+            ["phase"] = 1,
+        },
     }

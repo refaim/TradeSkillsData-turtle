@@ -597,10 +597,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
         },
         {
             ["id"] = 61485,
-            ["location"] = {
-                ["x"] = "??",
-                ["y"] = "??",
-            },
             ["name"] = {
                 ["English"] = "Evandil Nightwind",
             },
@@ -611,6 +607,76 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
                 ["max"] = 63,
                 ["min"] = 63,
             },
-            ["zone_id"] = TRADE_SKILLS_DATA_TURTLE_ZONE_ID_HYJAL,
+            ["zone_id"] = 100000,
+        },
+        {
+            ["id"] = 61225,
+            ["name"] = {
+                ["English"] = "Moroes",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 63,
+                ["min"] = 63,
+            },
+            ["zone_id"] = 100001,
+        },
+        {
+            ["id"] = 61221,
+            ["name"] = {
+                ["English"] = "Brood Queen Araxxna",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 63,
+                ["min"] = 63,
+            },
+            ["zone_id"] = 100001,
+        },
+        {
+            ["id"] = 61222,
+            ["name"] = {
+                ["English"] = "Lord Blackwald II",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 63,
+                ["min"] = 63,
+            },
+            ["zone_id"] = 100001,
+        },
+        {
+            ["id"] = 61223,
+            ["name"] = {
+                ["English"] = "Clawlord Howlfang",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 63,
+                ["min"] = 63,
+            },
+            ["zone_id"] = 100001,
+        },
+        {
+            ["id"] = 61224,
+            ["name"] = {
+                ["English"] = "Grizikil",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 63,
+                ["min"] = 63,
+            },
+            ["zone_id"] = 100001,
         },
     }
