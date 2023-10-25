@@ -33,4 +33,15 @@ TRADE_SKILLS_DATA_TURTLE["zones"] =
                 ["max"] = 60,
             },
         },
+        {
+            ["cont_id"] = 2,
+            ["id"] = 100003,
+            ["name"] = {
+                ["English"] = "Gilneas",
+            },
+            ["levels"] = {
+                ["min"] = 60,
+                ["max"] = 60,
+            },
+        },
     }

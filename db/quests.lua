@@ -187,4 +187,26 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             },
             ["phase"] = 1,
         },
+        {
+            ["id"] = 80738,
+            ["min_xp_level"] = 60,
+            ["name"] = {
+                ["English"] = "Recipe: Gurubashi Gumbo",
+            },
+            ["npcs"] = {
+                61616,
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 41004,
+            ["min_xp_level"] = 55,
+            ["name"] = {
+                ["English"] = "Le Fishe Au Chocolat",
+            },
+            ["npcs"] = {
+                61571,
+            },
+            ["phase"] = 1,
+        },
     }

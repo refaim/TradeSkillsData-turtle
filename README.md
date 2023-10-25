@@ -7,6 +7,9 @@ Used in [MissingTradeSkillsList](https://github.com/refaim/MissingTradeSkillsLis
 
 ## Version History
 
+### v1.8.0 (Oct 25, 2023)
+* Cooking: Add recipes from 1.17.0 patch notes
+
 ### v1.7.0 (Oct 25, 2023)
 * Alchemy: Add recipes from 1.17.0 patch notes
 

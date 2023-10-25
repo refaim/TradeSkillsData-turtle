@@ -27,6 +27,7 @@ TRADE_SKILLS_DATA["CURRENT_PATCH_LEVEL"] = TRADE_SKILLS_DATA_TURTLE["CURRENT_PAT
 local professions = {
     "Alchemy",
     "Blacksmithing",
+    "Cooking",
     "Engineering",
     "First Aid",
     "Leatherworking",

@@ -1024,4 +1024,32 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             },
             ["zone_id"] = 100000,
         },
+        {
+            ["id"] = 61574,
+            ["name"] = {
+                ["English"] = "'Stickypaws'",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Neutral",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 44,
+                ["min"] = 44,
+            },
+            ["zone_id"] = 100003,
+        },
+        {
+            ["id"] = 61571,
+            ["name"] = {
+                ["English"] = "Doorman Montigue",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Neutral",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 58,
+                ["min"] = 58,
+            },
+            ["zone_id"] = 100001,
+        },
     }
