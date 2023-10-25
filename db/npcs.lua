@@ -679,4 +679,298 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             },
             ["zone_id"] = 100001,
         },
+        {
+            ["id"] = 61191,
+            ["name"] = {
+                ["English"] = "Shadowbane Alpha",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 63,
+                ["min"] = 63,
+            },
+            ["zone_id"] = 100001,
+        },
+        {
+            ["id"] = 61192,
+            ["name"] = {
+                ["English"] = "Shadowbane Darkcaster",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 62,
+                ["min"] = 62,
+            },
+            ["zone_id"] = 100001,
+        },
+        {
+            ["id"] = 61193,
+            ["name"] = {
+                ["English"] = "Shadowbane Ambusher",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 62,
+                ["min"] = 62,
+            },
+            ["zone_id"] = 100001,
+        },
+        {
+            ["id"] = 61194,
+            ["name"] = {
+                ["English"] = "Shadowbane Ragefang",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 62,
+                ["min"] = 62,
+            },
+            ["zone_id"] = 100001,
+        },
+        {
+            ["id"] = 61195,
+            ["name"] = {
+                ["English"] = "Grellkin Shadow Weaver",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 61,
+                ["min"] = 61,
+            },
+            ["zone_id"] = 100001,
+        },
+        {
+            ["id"] = 61196,
+            ["name"] = {
+                ["English"] = "Grellkin Primalist",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 61,
+                ["min"] = 61,
+            },
+            ["zone_id"] = 100001,
+        },
+        {
+            ["id"] = 61197,
+            ["name"] = {
+                ["English"] = "Grellkin Channeler",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 61,
+                ["min"] = 61,
+            },
+            ["zone_id"] = 100001,
+        },
+        {
+            ["id"] = 61198,
+            ["name"] = {
+                ["English"] = "Shattercage Spearman",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 61,
+                ["min"] = 61,
+            },
+            ["zone_id"] = 100001,
+        },
+        {
+            ["id"] = 61199,
+            ["name"] = {
+                ["English"] = "Shattercage Magiskull",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 62,
+                ["min"] = 62,
+            },
+            ["zone_id"] = 100001,
+        },
+        {
+            ["id"] = 61200,
+            ["name"] = {
+                ["English"] = "Phantom Guardsman",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 61,
+                ["min"] = 61,
+            },
+            ["zone_id"] = 100001,
+        },
+        {
+            ["id"] = 61201,
+            ["name"] = {
+                ["English"] = "Haunted Stable Tender",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 61,
+                ["min"] = 61,
+            },
+            ["zone_id"] = 100001,
+        },
+        {
+            ["id"] = 61202,
+            ["name"] = {
+                ["English"] = "Haunted Blacksmith",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 61,
+                ["min"] = 61,
+            },
+            ["zone_id"] = 100001,
+        },
+        {
+            ["id"] = 61203,
+            ["name"] = {
+                ["English"] = "Dark Rider Apprentice",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 62,
+                ["min"] = 62,
+            },
+            ["zone_id"] = 100001,
+        },
+        {
+            ["id"] = 61204,
+            ["name"] = {
+                ["English"] = "Dark Rider Champion",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 63,
+                ["min"] = 63,
+            },
+            ["zone_id"] = 100001,
+        },
+        {
+            ["id"] = 61205,
+            ["name"] = {
+                ["English"] = "Phantom Servant",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 60,
+                ["min"] = 60,
+            },
+            ["zone_id"] = 100001,
+        },
+        {
+            ["id"] = 61206,
+            ["name"] = {
+                ["English"] = "Skitterweb Crawler",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 60,
+                ["min"] = 60,
+            },
+            ["zone_id"] = 100001,
+        },
+        {
+            ["id"] = 61207,
+            ["name"] = {
+                ["English"] = "Skitterweb Darkfang",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 61,
+                ["min"] = 61,
+            },
+            ["zone_id"] = 100001,
+        },
+        {
+            ["id"] = 61208,
+            ["name"] = {
+                ["English"] = "Skitterweb Venomfang",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 62,
+                ["min"] = 62,
+            },
+            ["zone_id"] = 100001,
+        },
+        {
+            ["id"] = 61209,
+            ["name"] = {
+                ["English"] = "Skitterweb Leaper",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 61,
+                ["min"] = 61,
+            },
+            ["zone_id"] = 100001,
+        },
+        {
+            ["id"] = 61210,
+            ["name"] = {
+                ["English"] = "Phantom Cook",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 60,
+                ["min"] = 60,
+            },
+            ["zone_id"] = 100001,
+        },
+        {
+            ["id"] = 61211,
+            ["name"] = {
+                ["English"] = "Shadowbane Glutton",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 61,
+                ["min"] = 61,
+            },
+            ["zone_id"] = 100001,
+        },
     }
