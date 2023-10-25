@@ -239,4 +239,106 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
                 },
             },
         },
+        {
+            ["id"] = 57115,
+            ["items"] = {
+                61179,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Enchanted Armor Kit",
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 45483,
+            ["items"] = {
+                61192,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Inscribed Runic Bracers",
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 45473,
+            ["items"] = {
+                61428,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Dreamhide Mantle",
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 45475,
+            ["items"] = {
+                61429,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Dreamhide Bracers",
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 45477,
+            ["items"] = {
+                61430,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Dreamhide Leggings",
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 45479,
+            ["items"] = {
+                61431,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Dreamhide Belt",
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 54013,
+            ["items"] = {
+                62006,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Chromatic Leggings",
+            },
+            ["phase"] = 1,
+            ["specialisation"] = 10656,
+        },
+        {
+            ["id"] = 54015,
+            ["items"] = {
+                62007,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Molten Leggings",
+            },
+            ["phase"] = 1,
+            ["specialisation"] = 10658,
+        },
+        {
+            ["id"] = 54007,
+            ["items"] = {
+                62003,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Corehound Gloves",
+            },
+            ["phase"] = 1,
+            ["specialisation"] = 10660,
+        },
     }

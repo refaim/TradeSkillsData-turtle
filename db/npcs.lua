@@ -996,4 +996,18 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             },
             ["zone_id"] = 100001,
         },
+        {
+            ["id"] = 61493,
+            ["name"] = {
+                ["English"] = "Vannamyr Featherwind",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Neutral",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 58,
+                ["min"] = 58,
+            },
+            ["zone_id"] = 100000,
+        },
     }

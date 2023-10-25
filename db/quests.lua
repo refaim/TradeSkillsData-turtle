@@ -1,6 +1,17 @@
 TRADE_SKILLS_DATA_TURTLE["quests"] =
     {
         {
+            ["id"] = 40875,
+            ["min_xp_level"] = 55,
+            ["name"] = {
+                ["English"] = "Pattern: Enchanted Armor Kit",
+            },
+            ["npcs"] = {
+                61485,
+            },
+            ["phase"] = 1,
+        },
+        {
             ["id"] = 40888,
             ["min_xp_level"] = 55,
             ["name"] = {
@@ -30,6 +41,39 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             },
             ["npcs"] = {
                 61491,
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 40897,
+            ["min_xp_level"] = 55,
+            ["name"] = {
+                ["English"] = "Dreamhide Bracers",
+            },
+            ["npcs"] = {
+                61493,
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 40898,
+            ["min_xp_level"] = 55,
+            ["name"] = {
+                ["English"] = "Dreamhide Leggings",
+            },
+            ["npcs"] = {
+                61493,
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 40899,
+            ["min_xp_level"] = 55,
+            ["name"] = {
+                ["English"] = "Dreamhide Belt",
+            },
+            ["npcs"] = {
+                61493,
             },
             ["phase"] = 1,
         },
