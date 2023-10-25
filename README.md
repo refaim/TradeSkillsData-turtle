@@ -7,6 +7,9 @@ Used in [MissingTradeSkillsList](https://github.com/refaim/MissingTradeSkillsLis
 
 ## Version History
 
+### v1.1.0 (Oct 25, 2023)
+* Blacksmithing: Add belt buckle recipes
+ 
 ### v1.0.1 (Oct 7, 2023)
 * Automatically format database tables
 

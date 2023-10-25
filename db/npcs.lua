@@ -488,6 +488,24 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["zone_id"] = 2100,
         },
         {
+            ["id"] = 14624,
+            ["location"] = {
+                ["x"] = "38.8",
+                ["y"] = "28.5",
+            },
+            ["name"] = {
+                ["English"] = "Master Smith Burninate",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Neutral",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 52,
+                ["min"] = 52,
+            },
+            ["zone_id"] = 51,
+        },
+        {
             ["id"] = 15325,
             ["location"] = {
                 ["x"] = "-",
@@ -523,5 +541,76 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             },
             ["zone_id"] = 139,
         },
-
+        {
+            ["id"] = 61616,
+            ["location"] = {
+                ["x"] = "-",
+                ["y"] = "-",
+            },
+            ["name"] = {
+                ["English"] = "Bradley Steel",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Neutral",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = "??",
+                ["min"] = "??",
+            },
+            ["zone_id"] = 33,
+        },
+        {
+            ["id"] = 61621,
+            ["location"] = {
+                ["x"] = "58.7",
+                ["y"] = "30.3",
+            },
+            ["name"] = {
+                ["English"] = "Gordon Hardfoot",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Alliance",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 25,
+                ["min"] = 25,
+            },
+            ["zone_id"] = 1519,
+        },
+        {
+            ["id"] = 61622,
+            ["location"] = {
+                ["x"] = "59.1",
+                ["y"] = "24.1",
+            },
+            ["name"] = {
+                ["English"] = "Tanovan Darkwell",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Horde",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 25,
+                ["min"] = 25,
+            },
+            ["zone_id"] = 1497,
+        },
+        {
+            ["id"] = 61485,
+            ["location"] = {
+                ["x"] = "??",
+                ["y"] = "??",
+            },
+            ["name"] = {
+                ["English"] = "Evandil Nightwind",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Neutral",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 63,
+                ["min"] = 63,
+            },
+            ["zone_id"] = TRADE_SKILLS_DATA_TURTLE_ZONE_ID_HYJAL,
+        },
     }

@@ -1,7 +1,7 @@
 ---@param base Entity[]
 ---@param diff Entity[]
 ---@return Entity[]
-local function patch(base, diff) -- TODO Optimize: replace linear arrays by associative arrays
+local function patch(base, diff)
     ---@type table<number, Entity>
     local id_to_entity = {}
 
@@ -30,6 +30,6 @@ for _, profession in pairs({"Blacksmithing", "Engineering", "Leatherworking", "T
     end
 end
 
-for _, entity in pairs({"factions", "npcs", "quests"}) do
+for _, entity in pairs({"factions", "npcs", "quests", "zones"}) do
     TRADE_SKILLS_DATA[entity] = patch(TRADE_SKILLS_DATA[entity], TRADE_SKILLS_DATA_TURTLE[entity])
 end

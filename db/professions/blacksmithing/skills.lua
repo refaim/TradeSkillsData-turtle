@@ -300,4 +300,92 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             },
             ["phase"] = 1,
         },
+        {
+            ["id"] = 57163,
+            ["items"] = {
+                61786,
+            },
+            ["min_skill"] = 25,
+            ["name"] = {
+                ["English"] = "Copper Belt Buckle",
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 57166,
+            ["items"] = {
+                61787,
+            },
+            ["min_skill"] = 90,
+            ["name"] = {
+                ["English"] = "Bronze Belt Buckle",
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 57169,
+            ["items"] = {
+                61788,
+            },
+            ["min_skill"] = 140,
+            ["name"] = {
+                ["English"] = "Iron Belt Buckle",
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 57172,
+            ["items"] = {
+                61789,
+            },
+            ["min_skill"] = 190,
+            ["name"] = {
+                ["English"] = "Mithril Belt Buckle",
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 57175,
+            ["items"] = {
+                61790,
+            },
+            ["min_skill"] = 240,
+            ["name"] = {
+                ["English"] = "Thorium Belt Buckle",
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 57178,
+            ["items"] = {
+                61791,
+            },
+            ["min_skill"] = 275,
+            ["name"] = {
+                ["English"] = "Arcanite Belt Buckle",
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 57181,
+            ["items"] = {
+                61792,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Dreamsteel Belt Buckle",
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 57196,
+            ["items"] = {
+                61803,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Bloody Belt Buckle",
+            },
+            ["phase"] = 1,
+        },
     }
