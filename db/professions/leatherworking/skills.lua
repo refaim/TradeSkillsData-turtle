@@ -341,4 +341,28 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             ["phase"] = 1,
             ["specialisation"] = 10660,
         },
+        {
+            ["id"] = 46654,
+            ["items"] = {
+                83537,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Red Dragonscale Shoulders",
+            },
+            ["phase"] = 1,
+            ["specialisation"] = 10656,
+        },
+        {
+            ["id"] = 46653,
+            ["items"] = {
+                83538,
+            },
+            ["min_skill"] = 295,
+            ["name"] = {
+                ["English"] = "Red Dragonscale Leggings",
+            },
+            ["phase"] = 1,
+            ["specialisation"] = 10656,
+        },
     }

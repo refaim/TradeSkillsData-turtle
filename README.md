@@ -7,6 +7,9 @@ Used in [MissingTradeSkillsList](https://github.com/refaim/MissingTradeSkillsLis
 
 ## Version History
 
+### v1.10.0 (Oct 26, 2023)
+* Add some old but somehow missing Turtle WoW recipes
+
 ### v1.9.0 (Oct 25, 2023)
 * Enchanting: Add recipes from 1.17.0 patch notes
 

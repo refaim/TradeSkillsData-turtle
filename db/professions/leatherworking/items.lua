@@ -173,4 +173,34 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Leatherworking"] =
                 ["level_id"] = 8,
             },
         },
+        {
+            ["id"] = 83537,
+            ["name"] = {
+                ["English"] = "Pattern: Red Dragonscale Shoulders",
+            },
+            ["phase"] = 1,
+            ["quality"] = "rare",
+            ["drops"] = {
+                ["sources"] = {
+                    1045,
+                    1046,
+                    1047,
+                },
+            },
+        },
+        {
+            ["id"] = 83538,
+            ["name"] = {
+                ["English"] = "Pattern: Red Dragonscale Leggings",
+            },
+            ["phase"] = 1,
+            ["quality"] = "common",
+            ["vendors"] = {
+                ["price"] = 10000,
+                ["sources"] = {
+                    2679,
+                    4883,
+                },
+            },
+        },
     }
