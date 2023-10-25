@@ -1052,4 +1052,18 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             },
             ["zone_id"] = 100001,
         },
+        {
+            ["id"] = 61418,
+            ["name"] = {
+                ["English"] = "Genn Greymane",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 49,
+                ["min"] = 49,
+            },
+            ["zone_id"] = 100004,
+        },
     }

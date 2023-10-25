@@ -7,6 +7,9 @@ Used in [MissingTradeSkillsList](https://github.com/refaim/MissingTradeSkillsLis
 
 ## Version History
 
+### v1.9.0 (Oct 25, 2023)
+* Enchanting: Add recipes from 1.17.0 patch notes
+
 ### v1.8.0 (Oct 25, 2023)
 * Cooking: Add recipes from 1.17.0 patch notes
 

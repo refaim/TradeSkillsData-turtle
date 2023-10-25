@@ -28,6 +28,7 @@ local professions = {
     "Alchemy",
     "Blacksmithing",
     "Cooking",
+    "Enchanting",
     "Engineering",
     "First Aid",
     "Leatherworking",

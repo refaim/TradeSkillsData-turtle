@@ -40,8 +40,19 @@ TRADE_SKILLS_DATA_TURTLE["zones"] =
                 ["English"] = "Gilneas",
             },
             ["levels"] = {
-                ["min"] = 60,
-                ["max"] = 60,
+                ["min"] = 39,
+                ["max"] = 46,
+            },
+        },
+        {
+            ["cont_id"] = 4,
+            ["id"] = 100004,
+            ["name"] = {
+                ["English"] = "Gilneas City",
+            },
+            ["levels"] = {
+                ["min"] = 43,
+                ["max"] = 49,
             },
         },
     }

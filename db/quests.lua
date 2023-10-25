@@ -34,6 +34,28 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             ["phase"] = 1,
         },
         {
+            ["id"] = 40883,
+            ["min_xp_level"] = 55,
+            ["name"] = {
+                ["English"] = "Enchant Boots: Greater Spirit",
+            },
+            ["npcs"] = {
+                61485,
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 40884,
+            ["min_xp_level"] = 55,
+            ["name"] = {
+                ["English"] = "Enchant Bracer: Greater Deflection",
+            },
+            ["npcs"] = {
+                61485,
+            },
+            ["phase"] = 1,
+        },
+        {
             ["id"] = 40888,
             ["min_xp_level"] = 55,
             ["name"] = {
@@ -206,6 +228,17 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             },
             ["npcs"] = {
                 61571,
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 80739,
+            ["min_xp_level"] = 60,
+            ["name"] = {
+                ["English"] = "Formula: Enchant Gloves - Major Strength",
+            },
+            ["npcs"] = {
+                61616,
             },
             ["phase"] = 1,
         },
