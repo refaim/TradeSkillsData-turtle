@@ -9,7 +9,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Alchemy"] =
             ["name"] = {
                 ["English"] = "Potion of Quickness",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 57129,
@@ -20,7 +19,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Alchemy"] =
             ["name"] = {
                 ["English"] = "Lucidity Potion",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 45989,
@@ -31,7 +29,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Alchemy"] =
             ["name"] = {
                 ["English"] = "Elixir of Greater Nature Power",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 57131,
@@ -42,6 +39,5 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Alchemy"] =
             ["name"] = {
                 ["English"] = "Dreamshard Elixir",
             },
-            ["phase"] = 1,
         },
     }

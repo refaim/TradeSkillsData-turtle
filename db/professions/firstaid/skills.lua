@@ -5,7 +5,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["First Aid"] =
             ["name"] = {
                 ["English"] = "Powerful Smelling Salts",
             },
-            ["phase"] = 1,
             ["items"] = {
                 8547,
             },

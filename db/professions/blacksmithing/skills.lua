@@ -9,7 +9,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Ironforge Chain",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 8368,
@@ -20,7 +19,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Ironforge Gauntlets",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 46600,
@@ -31,7 +29,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Lordaeron Breastplate",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 46626,
@@ -39,7 +36,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Steel Plate Boots",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -54,7 +50,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Steel Plate Gauntlets",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -69,7 +64,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Steel Plate Legguards",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -84,7 +78,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Steel Plate Armor",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -99,7 +92,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Steel Plate Pauldrons",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -117,7 +109,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Bloodstone Warblade",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 46663,
@@ -125,7 +116,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Copper Knuckles",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 90,
                 ["sources"] = {
@@ -151,7 +141,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Imperial Plate Gauntlets",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 46661,
@@ -162,7 +151,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Dream's Herald",
             },
-            ["phase"] = 1,
             ["specialisation"] = 17039,
         },
         {
@@ -171,7 +159,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Sharpened Claw",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 90,
                 ["sources"] = {
@@ -194,7 +181,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Bronze Bruiser",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 90,
                 ["sources"] = {
@@ -220,7 +206,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Frostbound Slasher",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 46667,
@@ -231,7 +216,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Pauldron of Deflection",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9788,
         },
         {
@@ -243,7 +227,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Rune-Etched Greaves",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 47022,
@@ -254,7 +237,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Rune-Etched Legplates",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 47023,
@@ -265,7 +247,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Rune-Etched Breastplate",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 47024,
@@ -276,7 +257,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Rune-Etched Crown",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 47025,
@@ -287,7 +267,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Rune-Etched Mantle",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 47026,
@@ -298,7 +277,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Rune-Etched Grips",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 57163,
@@ -309,7 +287,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Copper Belt Buckle",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 57166,
@@ -320,7 +297,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Bronze Belt Buckle",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 57169,
@@ -331,7 +307,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Iron Belt Buckle",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 57172,
@@ -342,7 +317,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Mithril Belt Buckle",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 57175,
@@ -353,7 +327,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Thorium Belt Buckle",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 57178,
@@ -364,7 +337,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Arcanite Belt Buckle",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 57181,
@@ -375,7 +347,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Dreamsteel Belt Buckle",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 57196,
@@ -386,7 +357,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Bloody Belt Buckle",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 54009,
@@ -397,7 +367,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Fiery Chain Breastplate",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 45465,
@@ -408,7 +377,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Dreamsteel Mantle",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 45467,
@@ -419,7 +387,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Dreamsteel Leggings",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 45469,
@@ -430,7 +397,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Dreamsteel Bracers",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 45471,
@@ -441,7 +407,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Dreamsteel Boots",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 57113,
@@ -452,7 +417,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Thorium Spurs",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 46657,
@@ -463,7 +427,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Ornate Bloodstone Dagger",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9787,
         },
         {
@@ -475,7 +438,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Pauldrons of the Timbermaw",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9788,
         },
         {
@@ -487,7 +449,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Fury of the Timbermaw",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9788,
         },
         {
@@ -499,7 +460,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Towerforge Breastplate",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9788,
         },
         {
@@ -511,7 +471,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Towerforge Pauldrons",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9788,
         },
         {
@@ -523,7 +482,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Towerforge Crown",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9788,
         },
         {
@@ -535,7 +493,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Towerforge Demolisher",
             },
-            ["phase"] = 1,
             ["specialisation"] = 17040,
         },
         {
@@ -547,7 +504,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Dawnstone Hammer",
             },
-            ["phase"] = 1,
             ["specialisation"] = 17040,
         },
         {
@@ -559,7 +515,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Untempered Runeblade",
             },
-            ["phase"] = 1,
             ["specialisation"] = 17039,
         },
     }

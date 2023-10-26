@@ -6,7 +6,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Diviner's Pantaloons",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -21,7 +20,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Diviner's Robes",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -36,7 +34,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Diviner's Cowl",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -51,7 +48,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Diviner's Boots",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -66,7 +62,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Diviner's Mitts",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -81,7 +76,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Diviner's Epaulets",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -96,7 +90,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Augerer's Hat",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -111,7 +104,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Augerer's Robe",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -126,7 +118,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Augerer's Trousers",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -141,7 +132,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Augerer's Mantle",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -156,7 +146,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Augerer's Gloves",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -171,7 +160,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Augerer's Boots",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -186,7 +174,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Pillager's Hood",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -201,7 +188,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Pillager's Amice",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -216,7 +202,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Pillager's Robes",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -231,7 +216,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Pillager's Grips",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -246,7 +230,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Pillager's Shoes",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -261,7 +244,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Pillager's Pantaloons",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -279,7 +261,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Robe of Sacrifice",
             },
-            ["phase"] = 2,
         },
         {
             ["id"] = 54011,
@@ -290,7 +271,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Flarecore Boots",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 45485,
@@ -301,7 +281,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Gloves of Unwinding Mystery",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 45457,
@@ -312,7 +291,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Dreamthread Mantle",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 45459,
@@ -323,7 +301,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Dreamthread Kilt",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 45461,
@@ -334,7 +311,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Dreamthread Bracers",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 45463,
@@ -345,6 +321,5 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Dreamthread Gloves",
             },
-            ["phase"] = 1,
         },
     }

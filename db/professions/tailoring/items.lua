@@ -5,7 +5,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Pattern: Robe of Sacrifice",
             },
-            ["phase"] = 2,
             ["quality"] = "epic",
             ["drops"] = {
                 ["sources"] = {
@@ -18,7 +17,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Pattern: Flarecore Boots",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 120000,
@@ -36,7 +34,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Pattern: Gloves of Unwinding Mystery",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
             ["drops"] = {
                 ["sources"] = {
@@ -53,7 +50,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Pattern: Dreamthread Mantle",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
             ["drops"] = {
                 ["sources"] = {
@@ -66,7 +62,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Pattern: Dreamthread Kilt",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
             ["quests"] = {
                 40902,
@@ -77,7 +72,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Pattern: Dreamthread Bracers",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
             ["quests"] = {
                 40903,
@@ -88,7 +82,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Pattern: Dreamthread Gloves",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
             ["quests"] = {
                 40904,

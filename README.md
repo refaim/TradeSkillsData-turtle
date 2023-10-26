@@ -7,6 +7,9 @@ Used in [MissingTradeSkillsList](https://github.com/refaim/MissingTradeSkillsLis
 
 ## Version History
 
+### v1.11.0 (Oct 26, 2023)
+* Remove Classic WoW content phases support
+
 ### v1.10.0 (Oct 26, 2023)
 * Add some old but somehow missing Turtle WoW recipes
 

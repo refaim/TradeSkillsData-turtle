@@ -5,7 +5,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Copper Belt Buckle",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["vendors"] = {
                 ["price"] = 300,
@@ -20,7 +19,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Bronze Belt Buckle",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["vendors"] = {
                 ["price"] = 500,
@@ -35,7 +33,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Iron Belt Buckle",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["vendors"] = {
                 ["price"] = 1200,
@@ -50,7 +47,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Mithril Belt Buckle",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["vendors"] = {
                 ["price"] = 2000,
@@ -65,7 +61,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Thorium Belt Buckle",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["vendors"] = {
                 ["price"] = 5000,
@@ -117,7 +112,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Arcanite Belt Buckle",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["drops"] = {
                 ["sources"] = {
@@ -155,7 +149,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Dreamsteel Belt Buckle",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["quests"] = {
                 41111,
@@ -166,7 +159,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Bloody Belt Buckle",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["quests"] = {
                 41129,
@@ -177,7 +169,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Ironforge Chain",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["vendors"] = {
                 ["price"] = 250,
@@ -191,7 +182,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Ironforge Gauntlets",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["vendors"] = {
                 ["price"] = 1800,
@@ -205,7 +195,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Rune-Etched Greaves",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["drops"] = {
                 ["sources"] = {
@@ -219,7 +208,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Rune-Etched Legplates",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["drops"] = {
                 ["sources"] = {
@@ -233,7 +221,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Rune-Etched Breastplate",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["drops"] = {
                 ["sources"] = {
@@ -247,7 +234,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Rune-Etched Crown",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["drops"] = {
                 ["sources"] = {
@@ -261,7 +247,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Rune-Etched Mantle",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["drops"] = {
                 ["sources"] = {
@@ -275,7 +260,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Rune-Etched Grips",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["drops"] = {
                 ["sources"] = {
@@ -289,7 +273,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Bloodstone Warblade",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["vendors"] = {
                 ["price"] = 10000,
@@ -304,7 +287,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Imperial Plate Gloves",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 55300,
@@ -315,7 +297,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Lordaeron Breastplate",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 70040,
@@ -326,7 +307,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Pauldron of Deflection",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
             ["drops"] = {
                 ["sources"] = {
@@ -344,7 +324,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Dream's Herald",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -362,7 +341,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Frostbound Slasher",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["drops"] = {
                 ["sources"] = {
@@ -385,7 +363,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Fiery Chain Breastplate",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
             ["vendors"] = {
                 ["price"] = 120000,
@@ -403,7 +380,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Dreamsteel Mantle",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
             ["drops"] = {
                 ["sources"] = {
@@ -416,7 +392,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Dreamsteel Leggings",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
             ["quests"] = {
                 40888,
@@ -427,7 +402,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Dreamsteel Bracers",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
             ["quests"] = {
                 40889,
@@ -438,7 +412,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Dreamsteel Boots",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
             ["quests"] = {
                 40890,
@@ -449,7 +422,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Thorium Spurs",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["drops"] = {
                 ["sources"] = {
@@ -486,7 +458,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Ornate Bloodstone Dagger",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
             ["quests"] = {
                 41119,
@@ -497,7 +468,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Pauldrons of the Timbermaw",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 40000,
@@ -515,7 +485,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Fury of the Timbermaw",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 22000,
@@ -533,7 +502,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Towerforge Breastplate",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
             ["drops"] = {
                 ["sources"] = {
@@ -546,7 +514,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Towerforge Pauldrons",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
             ["drops"] = {
                 ["sources"] = {
@@ -559,7 +526,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Towerforge Crown",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
             ["drops"] = {
                 ["sources"] = {
@@ -572,7 +538,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Towerforge Demolisher",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
             ["drops"] = {
                 ["sources"] = {
@@ -585,7 +550,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Dawnstone Hammer",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
             ["drops"] = {
                 ["sources"] = {
@@ -602,7 +566,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Untempered Runeblade",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["drops"] = {
                 ["sources"] = {

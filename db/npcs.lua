@@ -9,7 +9,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Bloodscalp Hunter",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -27,7 +26,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Skullsplitter Hunter",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -45,7 +43,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Bloodscalp Beastmaster",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -63,7 +60,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Skullsplitter Beastmaster",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -81,7 +77,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Cave Yeti",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -99,7 +94,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Ferocious Yeti",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -117,7 +111,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Mountain Yeti",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -135,7 +128,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Giant Yeti",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -153,7 +145,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Crushridge Ogre",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -171,7 +162,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Crushridge Brute",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -189,7 +179,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Crushridge Mauler",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -207,7 +196,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Crushridge Mage",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -225,7 +213,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Crushridge Enforcer",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -243,7 +230,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Crushridge Warmonger",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -261,7 +247,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Crushridge Plunderer",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -279,7 +264,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Thurgrum Deepforge",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -297,7 +281,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Firemane Scalebane",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -315,7 +298,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Firemane Scout",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -333,7 +315,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Firemane Ash Tail",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -351,7 +332,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Firemane Flamecaller",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -369,7 +349,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Billibub Cogspinner",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -387,7 +366,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Azuregos",
             },
-            ["phase"] = 2,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -405,7 +383,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Hakkari Shadow Hunter",
             },
-            ["phase"] = 4,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -423,7 +400,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Gurubashi Berserker",
             },
-            ["phase"] = 4,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -441,7 +417,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Firelord",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -459,7 +434,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Tinkerer Gizlock",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -477,7 +451,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Master Smith Burninate",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -495,7 +468,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Hive'Zara Wasp",
             },
-            ["phase"] = 5,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -513,7 +485,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Nerubian Overseer",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -531,7 +502,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Bradley Steel",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -549,7 +519,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Gordon Hardfoot",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -567,7 +536,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Tanovan Darkwell",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -581,7 +549,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Evandil Nightwind",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -595,7 +562,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Tanthos Everbreeze",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -609,7 +575,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Moroes",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -623,7 +588,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Brood Queen Araxxna",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -637,7 +601,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Lord Blackwald II",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -651,7 +614,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Clawlord Howlfang",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -665,7 +627,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Grizikil",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -679,7 +640,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Shadowbane Alpha",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -693,7 +653,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Shadowbane Darkcaster",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -707,7 +666,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Shadowbane Ambusher",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -721,7 +679,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Shadowbane Ragefang",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -735,7 +692,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Grellkin Shadow Weaver",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -749,7 +705,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Grellkin Primalist",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -763,7 +718,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Grellkin Channeler",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -777,7 +731,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Shattercage Spearman",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -791,7 +744,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Shattercage Magiskull",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -805,7 +757,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Phantom Guardsman",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -819,7 +770,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Haunted Stable Tender",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -833,7 +783,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Haunted Blacksmith",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -847,7 +796,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Dark Rider Apprentice",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -861,7 +809,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Dark Rider Champion",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -875,7 +822,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Phantom Servant",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -889,7 +835,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Skitterweb Crawler",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -903,7 +848,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Skitterweb Darkfang",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -917,7 +861,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Skitterweb Venomfang",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -931,7 +874,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Skitterweb Leaper",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -945,7 +887,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Phantom Cook",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -959,7 +900,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Shadowbane Glutton",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -973,7 +913,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Solnius",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -987,7 +926,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Master Blacksmith Rolfen",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -1001,7 +939,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Vannamyr Featherwind",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -1015,7 +952,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Jancel Stardust",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -1029,7 +965,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "'Stickypaws'",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1043,7 +978,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Doorman Montigue",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1057,7 +991,6 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             ["name"] = {
                 ["English"] = "Genn Greymane",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,

@@ -5,7 +5,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Enchanting"] =
             ["name"] = {
                 ["English"] = "Formula: Enchant Gloves - Arcane Power",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["drops"] = {
                 ["sources"] = {
@@ -22,7 +21,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Enchanting"] =
             ["name"] = {
                 ["English"] = "Formula: Enchant Gloves - Nature Power",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["drops"] = {
                 ["sources"] = {
@@ -35,7 +33,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Enchanting"] =
             ["name"] = {
                 ["English"] = "Formula: Enchant Cloak - Greater Arcane Resistance",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["drops"] = {
                 ["sources"] = {
@@ -73,7 +70,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Enchanting"] =
             ["name"] = {
                 ["English"] = "Formula: Enchant Chest - Mighty Mana",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["drops"] = {
                 ["sources"] = {
@@ -86,7 +82,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Enchanting"] =
             ["name"] = {
                 ["English"] = "Formula: Enchant Boots - Superior Stamina",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["drops"] = {
                 ["sources"] = {
@@ -103,7 +98,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Enchanting"] =
             ["name"] = {
                 ["English"] = "Formula: Enchant Boots - Greater Spirit",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["quests"] = {
                 40883,
@@ -114,7 +108,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Enchanting"] =
             ["name"] = {
                 ["English"] = "Formula: Enchant Bracer - Greater Deflection",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["quests"] = {
                 40884,
@@ -125,7 +118,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Enchanting"] =
             ["name"] = {
                 ["English"] = "Formula: Enchant Gloves - Major Strength",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["quests"] = {
                 80739,
@@ -136,7 +128,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Enchanting"] =
             ["name"] = {
                 ["English"] = "Formula: Enchant Bracer - Vampirism",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["drops"] = {
                 ["sources"] = {
@@ -149,7 +140,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Enchanting"] =
             ["name"] = {
                 ["English"] = "Formula: Enchant Boots - Vampirism",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["drops"] = {
                 ["sources"] = {

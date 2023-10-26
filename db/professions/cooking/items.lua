@@ -5,7 +5,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Cooking"] =
             ["name"] = {
                 ["English"] = "Recipe: Gilneas Hot Stew",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["vendors"] = {
                 ["price"] = 2500,
@@ -19,7 +18,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Cooking"] =
             ["name"] = {
                 ["English"] = "Recipe: Gurubashi Gumbo",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["quests"] = {
                 80738,
@@ -30,7 +28,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Cooking"] =
             ["name"] = {
                 ["English"] = "Recipe: Le Fishe Au Chocolat",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
             ["quests"] = {
                 41004,

@@ -9,7 +9,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Enchanting"] =
             ["name"] = {
                 ["English"] = "Enchant Gloves - Arcane Power",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 46602,
@@ -20,7 +19,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Enchanting"] =
             ["name"] = {
                 ["English"] = "Enchant Gloves - Nature Power",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 57117,
@@ -31,7 +29,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Enchanting"] =
             ["name"] = {
                 ["English"] = "Enchant Cloak - Greater Arcane Resistance",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 57119,
@@ -42,7 +39,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Enchanting"] =
             ["name"] = {
                 ["English"] = "Enchant Chest - Mighty Mana",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 57127,
@@ -53,7 +49,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Enchanting"] =
             ["name"] = {
                 ["English"] = "Enchant Boots - Superior Stamina",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 57142,
@@ -64,7 +59,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Enchanting"] =
             ["name"] = {
                 ["English"] = "Enchant Boots - Greater Spirit",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 57144,
@@ -75,7 +69,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Enchanting"] =
             ["name"] = {
                 ["English"] = "Enchant Bracer - Greater Deflection",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 46086,
@@ -86,7 +79,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Enchanting"] =
             ["name"] = {
                 ["English"] = "Enchant Gloves - Major Strength",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 57146,
@@ -97,7 +89,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Enchanting"] =
             ["name"] = {
                 ["English"] = "Enchant Bracer - Vampirism",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 57148,
@@ -108,6 +99,5 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Enchanting"] =
             ["name"] = {
                 ["English"] = "Enchant Boots - Vampirism",
             },
-            ["phase"] = 1,
         },
     }

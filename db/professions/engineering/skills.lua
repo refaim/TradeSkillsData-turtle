@@ -9,7 +9,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Engineering"] =
             ["name"] = {
                 ["English"] = "Hypertech Battery Pack",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 46610,
@@ -20,7 +19,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Engineering"] =
             ["name"] = {
                 ["English"] = "Battery-Powered Crowd Pummeler",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 47027,
@@ -31,7 +29,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Engineering"] =
             ["name"] = {
                 ["English"] = "Portable Wormhole Generator: Stormwind",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 47028,
@@ -42,7 +39,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Engineering"] =
             ["name"] = {
                 ["English"] = "Portable Wormhole Generator: Orgrimmar",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 45481,
@@ -53,6 +49,5 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Engineering"] =
             ["name"] = {
                 ["English"] = "Intricate Gyroscope Goggles",
             },
-            ["phase"] = 1,
         },
     }

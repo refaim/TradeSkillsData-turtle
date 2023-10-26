@@ -5,7 +5,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Pattern: Dragonscale Leggings",
             },
-            ["phase"] = 2,
             ["quality"] = "rare",
             ["drops"] = {
                 ["sources"] = {
@@ -21,7 +20,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Pattern: Shadowskin Boots",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["drops"] = {
                 ["sources"] = {
@@ -37,7 +35,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Pattern: Stormscale Leggings",
             },
-            ["phase"] = 2,
             ["quality"] = "epic",
             ["drops"] = {
                 ["sources"] = {
@@ -50,7 +47,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Pattern: Enchanted Armor Kit",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["quests"] = {
                 40875,
@@ -61,7 +57,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Pattern: Inscribed Runic Bracers",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
             ["drops"] = {
                 ["sources"] = {
@@ -78,7 +73,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Pattern: Dreamhide Mantle",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
             ["drops"] = {
                 ["sources"] = {
@@ -91,7 +85,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Pattern: Dreamhide Bracers",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
             ["quests"] = {
                 40897,
@@ -102,7 +95,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Pattern: Dreamhide Leggings",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
             ["quests"] = {
                 40898,
@@ -113,7 +105,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Pattern: Dreamhide Belt",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
             ["quests"] = {
                 40899,
@@ -124,7 +115,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Pattern: Chromatic Leggings",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 120000,
@@ -142,7 +132,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Pattern: Molten Leggings",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 120000,
@@ -160,7 +149,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Pattern: Corehound Gloves",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 120000,
@@ -178,7 +166,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Pattern: Red Dragonscale Shoulders",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["drops"] = {
                 ["sources"] = {
@@ -193,7 +180,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Pattern: Red Dragonscale Leggings",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 10000,

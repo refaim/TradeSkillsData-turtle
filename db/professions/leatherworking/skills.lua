@@ -15,7 +15,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guantes de Fletcher",
                 ["Taiwanese"] = "造弓師手套",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1500,
                 ["sources"] = {
@@ -30,7 +29,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Grifter's Boots",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -45,7 +43,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Grifter's Gauntlets",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -60,7 +57,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Grifter's Belt",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -75,7 +71,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Grifter's Leggings",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -90,7 +85,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Grifter's Tunic",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -105,7 +99,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Grifter's Cover",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -123,7 +116,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Stormscale Leggings",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10656,
         },
         {
@@ -135,7 +127,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Shadowskin Boots",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 46695,
@@ -146,7 +137,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Dragonscale Leggings",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10656,
         },
         {
@@ -155,7 +145,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Primalist's Gloves",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -170,7 +159,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Primalist's Shoulders",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -185,7 +173,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Primalist's Headdress",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -200,7 +187,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Primalist's Pants",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -215,7 +201,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Primalist's Vest",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -230,7 +215,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Primalist's Boots",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3500,
                 ["sources"] = {
@@ -248,7 +232,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Enchanted Armor Kit",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 45483,
@@ -259,7 +242,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Inscribed Runic Bracers",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 45473,
@@ -270,7 +252,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Dreamhide Mantle",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 45475,
@@ -281,7 +262,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Dreamhide Bracers",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 45477,
@@ -292,7 +272,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Dreamhide Leggings",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 45479,
@@ -303,7 +282,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Dreamhide Belt",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 54013,
@@ -314,7 +292,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Chromatic Leggings",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10656,
         },
         {
@@ -326,7 +303,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Molten Leggings",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10658,
         },
         {
@@ -338,7 +314,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Corehound Gloves",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10660,
         },
         {
@@ -350,7 +325,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Red Dragonscale Shoulders",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10656,
         },
         {
@@ -362,7 +336,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             ["name"] = {
                 ["English"] = "Red Dragonscale Leggings",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10656,
         },
     }

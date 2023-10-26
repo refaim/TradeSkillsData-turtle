@@ -5,7 +5,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Alchemy"] =
             ["name"] = {
                 ["English"] = "Recipe: Potion of Quickness",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["drops"] = {
                 ["sources"] = {
@@ -43,7 +42,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Alchemy"] =
             ["name"] = {
                 ["English"] = "Recipe: Lucidity Potion",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["quests"] = {
                 40874,
@@ -54,7 +52,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Alchemy"] =
             ["name"] = {
                 ["English"] = "Recipe: Elixir of Greater Nature Power",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["drops"] = {
                 ["sources"] = {
@@ -67,7 +64,6 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Alchemy"] =
             ["name"] = {
                 ["English"] = "Recipe: Dreamshard Elixir",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["quests"] = {
                 40873,

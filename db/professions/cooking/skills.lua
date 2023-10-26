@@ -9,7 +9,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Cooking"] =
             ["name"] = {
                 ["English"] = "Gilneas Hot Stew",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 46085,
@@ -20,7 +19,6 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Cooking"] =
             ["name"] = {
                 ["English"] = "Gurubashi Gumbo",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 45625,
@@ -31,6 +29,5 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Cooking"] =
             ["name"] = {
                 ["English"] = "Le Fishe Au Chocolat",
             },
-            ["phase"] = 1,
         },
     }

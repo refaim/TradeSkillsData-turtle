@@ -9,7 +9,6 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             ["npcs"] = {
                 61485,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 40874,
@@ -20,7 +19,6 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             ["npcs"] = {
                 61485,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 40875,
@@ -31,7 +29,6 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             ["npcs"] = {
                 61485,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 40883,
@@ -42,7 +39,6 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             ["npcs"] = {
                 61485,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 40884,
@@ -53,7 +49,6 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             ["npcs"] = {
                 61485,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 40888,
@@ -64,7 +59,6 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             ["npcs"] = {
                 61491,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 40889,
@@ -75,7 +69,6 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             ["npcs"] = {
                 61491,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 40890,
@@ -86,7 +79,6 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             ["npcs"] = {
                 61491,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 40897,
@@ -97,7 +89,6 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             ["npcs"] = {
                 61493,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 40898,
@@ -108,7 +99,6 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             ["npcs"] = {
                 61493,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 40899,
@@ -119,7 +109,6 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             ["npcs"] = {
                 61493,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 40902,
@@ -130,7 +119,6 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             ["npcs"] = {
                 61492,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 40904,
@@ -141,7 +129,6 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             ["npcs"] = {
                 61492,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 40903,
@@ -152,7 +139,6 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             ["npcs"] = {
                 61492,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 41111,
@@ -163,7 +149,6 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             ["npcs"] = {
                 61485,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 41119,
@@ -174,7 +159,6 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             ["npcs"] = {
                 61616,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 41129,
@@ -185,7 +169,6 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             ["npcs"] = {
                 61616,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 55300,
@@ -196,7 +179,6 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             ["npcs"] = {
                 14567,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 70040,
@@ -207,7 +189,6 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             ["npcs"] = {
                 4605,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 80738,
@@ -218,7 +199,6 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             ["npcs"] = {
                 61616,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 41004,
@@ -229,7 +209,6 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             ["npcs"] = {
                 61571,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 80739,
@@ -240,6 +219,5 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
             ["npcs"] = {
                 61616,
             },
-            ["phase"] = 1,
         },
     }
