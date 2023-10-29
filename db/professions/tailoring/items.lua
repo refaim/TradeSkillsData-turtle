@@ -5,7 +5,7 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Tailoring"] =
             ["name"] = {
                 ["English"] = "Pattern: Green Woolen Robe",
             },
-            ["quality"] = "uncommon",
+            ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 750,
                 ["sources"] = {

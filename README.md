@@ -7,6 +7,9 @@ Used in [MissingTradeSkillsList](https://github.com/refaim/MissingTradeSkillsLis
 
 ## Version History
 
+### v1.12.1 (Oct 29, 2023)
+* Tailoring: Fix 'Pattern: Green Woolen Robe' rarity
+
 ### v1.12.0 (Oct 29, 2023)
 * Enchanting: Fix sources of 'Enchant Bracer - Lesser Intellect'
 * Tailoring: Add a bunch of missing recipes
