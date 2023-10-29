@@ -1,6 +1,21 @@
 TRADE_SKILLS_DATA_TURTLE["skills"]["Enchanting"] =
     {
         {
+            ["id"] = 13622,
+            ["min_skill"] = 150,
+            ["name"] = {
+                ["English"] = "Enchant Bracer - Lesser Intellect",
+            },
+            ["trainers"] = {
+                ["price"] = 2500,
+                ["sources"] = {
+                    1317,
+                    11072,
+                    11074,
+                },
+            },
+        },
+        {
             ["id"] = 46601,
             ["items"] = {
                 70001,
