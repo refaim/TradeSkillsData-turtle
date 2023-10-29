@@ -517,4 +517,97 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
             },
             ["specialisation"] = 17039,
         },
+        {
+            ["id"] = 16965,
+            ["items"] = {
+                12817,
+            },
+            ["min_skill"] = 270,
+            ["name"] = {
+                ["English"] = "Bleakwood Hew",
+            },
+        },
+        {
+            ["id"] = 16986,
+            ["items"] = {
+                12831,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Blood Talon",
+            },
+            ["specialisation"] = 9787,
+        },
+        {
+            ["id"] = 16987,
+            ["items"] = {
+                12832,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Darkspear",
+            },
+            ["specialisation"] = 9787,
+        },
+        {
+            ["id"] = 16660,
+            ["items"] = {
+                12698,
+            },
+            ["min_skill"] = 290,
+            ["name"] = {
+                ["English"] = "Dawnbringer Shoulders",
+            },
+            ["specialisation"] = 9788,
+        },
+        {
+            ["id"] = 16967,
+            ["items"] = {
+                12818,
+            },
+            ["min_skill"] = 270,
+            ["name"] = {
+                ["English"] = "Inlaid Thorium Hammer",
+            },
+        },
+        {
+            ["id"] = 9942,
+            ["items"] = {
+                7977,
+            },
+            ["min_skill"] = 220,
+            ["name"] = {
+                ["English"] = "Mithril Scale Gloves",
+            },
+        },
+        {
+            ["id"] = 2671,
+            ["items"] = {
+                5577,
+            },
+            ["min_skill"] = 100,
+            ["name"] = {
+                ["English"] = "Rough Bronze Bracers",
+            },
+        },
+        {
+            ["id"] = 16980,
+            ["items"] = {
+                12826,
+            },
+            ["min_skill"] = 285,
+            ["name"] = {
+                ["English"] = "Rune Edge",
+            },
+        },
+        {
+            ["id"] = 16960,
+            ["items"] = {
+                12816,
+            },
+            ["min_skill"] = 260,
+            ["name"] = {
+                ["English"] = "Thorium Greatsword",
+            },
+        },
     }

@@ -1094,4 +1094,185 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
                 ["y"] = "49.4",
             },
         },
+        {
+            ["id"] = 10379,
+            ["name"] = {
+                ["English"] = "Altsoba Ragetotem",
+            },
+            ["reacts"] = "Horde",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 55,
+                ["min"] = 55,
+            },
+            ["zone_id"] = 357,
+            ["location"] = {
+                ["x"] = "34.8",
+                ["y"] = "53.2",
+            },
+        },
+        {
+            ["id"] = 2999,
+            ["name"] = {
+                ["English"] = "Taur Stonehoof",
+            },
+            ["reacts"] = "Horde",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 30,
+                ["min"] = 30,
+            },
+            ["zone_id"] = 215,
+            ["location"] = {
+                ["x"] = "37.9",
+                ["y"] = "28.1",
+            },
+        },
+        {
+            ["id"] = 6408,
+            ["name"] = {
+                ["English"] = "Ula'elek",
+            },
+            ["reacts"] = "Horde",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 35,
+                ["min"] = 35,
+            },
+            ["zone_id"] = 14,
+            ["location"] = {
+                ["x"] = "56.3",
+                ["y"] = "74.3",
+            },
+        },
+        {
+            ["id"] = 6109,
+            ["name"] = {
+                ["English"] = "Azuregos",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 63,
+                ["min"] = 63,
+            },
+            ["zone_id"] = 100005,
+        },
+        {
+            ["id"] = 10184,
+            ["name"] = {
+                ["English"] = "Onyxia",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 63,
+                ["min"] = 63,
+            },
+            ["zone_id"] = 2159,
+        },
+        {
+            ["id"] = 11583,
+            ["name"] = {
+                ["English"] = "Nefarian",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 63,
+                ["min"] = 63,
+            },
+            ["zone_id"] = 2677,
+        },
+        {
+            ["id"] = 11726,
+            ["name"] = {
+                ["English"] = "Hive'Zora Tunneler",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 59,
+                ["min"] = 58,
+            },
+            ["zone_id"] = 1377,
+        },
+        {
+            ["id"] = 14887,
+            ["name"] = {
+                ["English"] = "Ysondre",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 63,
+                ["min"] = 63,
+            },
+            ["zone_id"] = 47,
+        },
+        {
+            ["id"] = 14888,
+            ["name"] = {
+                ["English"] = "Lethon",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 63,
+                ["min"] = 63,
+            },
+            ["zone_id"] = 357,
+        },
+        {
+            ["id"] = 14889,
+            ["name"] = {
+                ["English"] = "Emeriss",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 63,
+                ["min"] = 63,
+            },
+            ["zone_id"] = 10,
+        },
+        {
+            ["id"] = 14890,
+            ["name"] = {
+                ["English"] = "Taerar",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 63,
+                ["min"] = 63,
+            },
+            ["zone_id"] = 331,
+        },
+        {
+            ["id"] = 16184,
+            ["name"] = {
+                ["English"] = "Nerubian Overseer",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 63,
+                ["min"] = 63,
+            },
+            ["zone_id"] = 139,
+        },
+        {
+            ["id"] = 50112,
+            ["name"] = {
+                ["English"] = "Snowball",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 63,
+                ["min"] = 63,
+            },
+            ["zone_id"] = 100006,
+        },
     }

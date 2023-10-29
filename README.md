@@ -7,6 +7,10 @@ Used in [MissingTradeSkillsList](https://github.com/refaim/MissingTradeSkillsLis
 
 ## Version History
 
+### v1.13.0 (Oct 29, 2023)
+* Alchemy: Add 'Recipe: Greater Holy Protection Potion'
+* Blacksmithing: Add nine missing recipes
+
 ### v1.12.2 (Oct 29, 2023)
 * Leatherworking: Add 'Pattern: Nightscape Cloak'
 

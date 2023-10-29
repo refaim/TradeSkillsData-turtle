@@ -1,6 +1,16 @@
 TRADE_SKILLS_DATA_TURTLE["skills"]["Alchemy"] =
     {
         {
+            ["id"] = 17579,
+            ["items"] = {
+                13500,
+            },
+            ["min_skill"] = 290,
+            ["name"] = {
+                ["English"] = "Greater Holy Protection Potion",
+            },
+        },
+        {
             ["id"] = 57111,
             ["items"] = {
                 61177,

@@ -55,4 +55,26 @@ TRADE_SKILLS_DATA_TURTLE["zones"] =
                 ["max"] = 49,
             },
         },
+        {
+            ["cont_id"] = 1,
+            ["id"] = 100005,
+            ["name"] = {
+                ["English"] = "Azshara",
+            },
+            ["levels"] = {
+                ["min"] = 45,
+                ["max"] = 55,
+            },
+        },
+        {
+            ["cont_id"] = 5,
+            ["id"] = 100006,
+            ["name"] = {
+                ["English"] = "Winter Veil Vale",
+            },
+            ["levels"] = {
+                ["min"] = 60,
+                ["max"] = 60,
+            },
+        },
     }

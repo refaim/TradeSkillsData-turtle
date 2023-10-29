@@ -574,4 +574,134 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
                 },
             },
         },
+        {
+            ["id"] = 12817,
+            ["name"] = {
+                ["English"] = "Plans: Bleakwood Hew",
+            },
+            ["quality"] = "rare",
+            ["vendors"] = {
+                ["price"] = 16000,
+                ["sources"] = {
+                    10379,
+                },
+            },
+        },
+        {
+            ["id"] = 12831,
+            ["name"] = {
+                ["English"] = "Plans: Blood Talon",
+            },
+            ["quality"] = "rare",
+            ["vendors"] = {
+                ["price"] = 40000,
+                ["sources"] = {
+                    2999,
+                },
+            },
+        },
+        {
+            ["id"] = 12832,
+            ["name"] = {
+                ["English"] = "Plans: Darkspear",
+            },
+            ["quality"] = "rare",
+            ["vendors"] = {
+                ["price"] = 40000,
+                ["sources"] = {
+                    6408,
+                },
+            },
+        },
+        {
+            ["id"] = 12698,
+            ["name"] = {
+                ["English"] = "Plans: Dawnbringer Shoulders",
+            },
+            ["quality"] = "rare",
+            ["drops"] = {
+                ["sources"] = {
+                    14889,
+                    10184,
+                    6109,
+                    14888,
+                    14890,
+                    14887,
+                    11502,
+                    11583,
+                    50112,
+                    16184,
+                    11726,
+                },
+            },
+        },
+        {
+            ["id"] = 12818,
+            ["name"] = {
+                ["English"] = "Plans: Inlaid Thorium Hammer",
+            },
+            ["quality"] = "uncommon",
+            ["vendors"] = {
+                ["price"] = 12500,
+                ["sources"] = {
+                    5411,
+                },
+            },
+        },
+        {
+            ["id"] = 7977,
+            ["name"] = {
+                ["English"] = "Plans: Mithril Scale Gloves",
+            },
+            ["quality"] = "uncommon",
+            ["vendors"] = {
+                ["price"] = 8000,
+                ["sources"] = {
+                    3356,
+                    5512,
+                },
+            },
+        },
+        {
+            ["id"] = 5577,
+            ["name"] = {
+                ["English"] = "Plans: Rough Bronze Bracers",
+            },
+            ["quality"] = "uncommon",
+            ["vendors"] = {
+                ["price"] = 1200,
+                ["sources"] = {
+                    3356,
+                    5512,
+                },
+            },
+        },
+        {
+            ["id"] = 12826,
+            ["name"] = {
+                ["English"] = "Plans: Rune Edge",
+            },
+            ["quality"] = "uncommon",
+            ["vendors"] = {
+                ["price"] = 20000,
+                ["sources"] = {
+                    3356,
+                    5512,
+                },
+            },
+        },
+        {
+            ["id"] = 12816,
+            ["name"] = {
+                ["English"] = "Plans: Thorium Greatsword",
+            },
+            ["quality"] = "uncommon",
+            ["vendors"] = {
+                ["price"] = 12000,
+                ["sources"] = {
+                    3356,
+                    5512,
+                },
+            },
+        },
     }

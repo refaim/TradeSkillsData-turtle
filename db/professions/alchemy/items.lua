@@ -1,6 +1,19 @@
 TRADE_SKILLS_DATA_TURTLE["items"]["Alchemy"] =
     {
         {
+            ["id"] = 13500,
+            ["name"] = {
+                ["English"] = "Recipe: Greater Holy Protection Potion",
+            },
+            ["quality"] = "uncommon",
+            ["vendors"] = {
+                ["price"] = 24000,
+                ["sources"] = {
+                    4610,
+                },
+            },
+        },
+        {
             ["id"] = 61177,
             ["name"] = {
                 ["English"] = "Recipe: Potion of Quickness",
