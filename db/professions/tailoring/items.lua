@@ -1,6 +1,104 @@
 TRADE_SKILLS_DATA_TURTLE["items"]["Tailoring"] =
     {
         {
+            ["id"] = 6273,
+            ["name"] = {
+                ["English"] = "Pattern: Green Woolen Robe",
+            },
+            ["quality"] = "uncommon",
+            ["vendors"] = {
+                ["price"] = 750,
+                ["sources"] = {
+                    1669,
+                },
+            },
+        },
+        {
+            ["id"] = 7093,
+            ["name"] = {
+                ["English"] = "Pattern: Boots of Darkness",
+            },
+            ["quality"] = "uncommon",
+            ["vendors"] = {
+                ["price"] = 800,
+                ["sources"] = {
+                    3537,
+                },
+            },
+        },
+        {
+            ["id"] = 10324,
+            ["name"] = {
+                ["English"] = "Pattern: Stormcloth Boots",
+            },
+            ["quality"] = "uncommon",
+            ["drops"] = {
+                ["sources"] = {
+                    5236,
+                },
+            },
+        },
+        {
+            ["id"] = 10304,
+            ["name"] = {
+                ["English"] = "Pattern: Stormcloth Gloves",
+            },
+            ["quality"] = "uncommon",
+            ["drops"] = {
+                ["sources"] = {
+                    2718,
+                },
+            },
+        },
+        {
+            ["id"] = 10319,
+            ["name"] = {
+                ["English"] = "Pattern: Stormcloth Headband",
+            },
+            ["quality"] = "uncommon",
+            ["drops"] = {
+                ["sources"] = {
+                    5308,
+                },
+            },
+        },
+        {
+            ["id"] = 10303,
+            ["name"] = {
+                ["English"] = "Pattern: Stormcloth Pants",
+            },
+            ["quality"] = "uncommon",
+            ["drops"] = {
+                ["sources"] = {
+                    2762,
+                },
+            },
+        },
+        {
+            ["id"] = 10322,
+            ["name"] = {
+                ["English"] = "Pattern: Stormcloth Shoulders",
+            },
+            ["quality"] = "uncommon",
+            ["drops"] = {
+                ["sources"] = {
+                    7727,
+                },
+            },
+        },
+        {
+            ["id"] = 10313,
+            ["name"] = {
+                ["English"] = "Pattern: Stormcloth Vest",
+            },
+            ["quality"] = "uncommon",
+            ["drops"] = {
+                ["sources"] = {
+                    940,
+                },
+            },
+        },
+        {
             ["id"] = 83545,
             ["name"] = {
                 ["English"] = "Pattern: Robe of Sacrifice",

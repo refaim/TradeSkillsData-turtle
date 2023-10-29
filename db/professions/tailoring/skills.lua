@@ -1,6 +1,86 @@
 TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
     {
         {
+            ["id"] = 7636,
+            ["items"] = {
+                6273,
+            },
+            ["min_skill"] = 90,
+            ["name"] = {
+                ["English"] = "Green Woolen Robe",
+            },
+        },
+        {
+            ["id"] = 8778,
+            ["items"] = {
+                7093,
+            },
+            ["min_skill"] = 140,
+            ["name"] = {
+                ["English"] = "Boots of Darkness",
+            },
+        },
+        {
+            ["id"] = 12090,
+            ["items"] = {
+                10324,
+            },
+            ["min_skill"] = 250,
+            ["name"] = {
+                ["English"] = "Stormcloth Boots",
+            },
+        },
+        {
+            ["id"] = 12063,
+            ["items"] = {
+                10304,
+            },
+            ["min_skill"] = 220,
+            ["name"] = {
+                ["English"] = "Stormcloth Gloves",
+            },
+        },
+        {
+            ["id"] = 12083,
+            ["items"] = {
+                10319,
+            },
+            ["min_skill"] = 240,
+            ["name"] = {
+                ["English"] = "Stormcloth Headband",
+            },
+        },
+        {
+            ["id"] = 12062,
+            ["items"] = {
+                10303,
+            },
+            ["min_skill"] = 220,
+            ["name"] = {
+                ["English"] = "Stormcloth Pants",
+            },
+        },
+        {
+            ["id"] = 12087,
+            ["items"] = {
+                10322,
+            },
+            ["min_skill"] = 245,
+            ["name"] = {
+                ["English"] = "Stormcloth Shoulders",
+            },
+        },
+        {
+            ["id"] = 12068,
+            ["items"] = {
+                10313,
+            },
+            ["min_skill"] = 225,
+            ["name"] = {
+                ["English"] = "Stormcloth Vest",
+            },
+        },
+        {
             ["id"] = 46633,
             ["min_skill"] = 230,
             ["name"] = {

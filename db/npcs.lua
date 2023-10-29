@@ -999,4 +999,82 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             },
             ["zone_id"] = 100004,
         },
+        {
+            ["id"] = 940,
+            ["name"] = {
+                ["English"] = "Kurzen Medicine Man",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 33,
+                ["min"] = 32,
+            },
+            ["zone_id"] = 33,
+        },
+        {
+            ["id"] = 2718,
+            ["name"] = {
+                ["English"] = "Dustbelcher Shaman",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 43,
+                ["min"] = 42,
+            },
+            ["zone_id"] = 3,
+        },
+        {
+            ["id"] = 2762,
+            ["name"] = {
+                ["English"] = "Thundering Exile",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 39,
+                ["min"] = 38,
+            },
+            ["zone_id"] = 45,
+        },
+        {
+            ["id"] = 5236,
+            ["name"] = {
+                ["English"] = "Gordunni Shaman",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 45,
+                ["min"] = 44,
+            },
+            ["zone_id"] = 357,
+        },
+        {
+            ["id"] = 5308,
+            ["name"] = {
+                ["English"] = "Rogue Vale Screecher",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 46,
+                ["min"] = 44,
+            },
+            ["zone_id"] = 357,
+        },
+        {
+            ["id"] = 7727,
+            ["name"] = {
+                ["English"] = "Grimtotem Shaman",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 44,
+                ["min"] = 43,
+            },
+            ["zone_id"] = 357,
+        },
     }

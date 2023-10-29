@@ -7,6 +7,10 @@ Used in [MissingTradeSkillsList](https://github.com/refaim/MissingTradeSkillsLis
 
 ## Version History
 
+### v1.12.0 (Oct 29, 2023)
+* Enchanting: Fix sources of 'Enchant Bracer - Lesser Intellect'
+* Tailoring: Add a bunch of missing recipes
+
 ### v1.11.0 (Oct 26, 2023)
 * Remove Classic WoW content phases support
 
