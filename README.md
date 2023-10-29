@@ -7,6 +7,9 @@ Used in [MissingTradeSkillsList](https://github.com/refaim/MissingTradeSkillsLis
 
 ## Version History
 
+### v1.12.2 (Oct 29, 2023)
+* Leatherworking: Add 'Pattern: Nightscape Cloak'
+
 ### v1.12.1 (Oct 29, 2023)
 * Tailoring: Fix 'Pattern: Green Woolen Robe' rarity
 

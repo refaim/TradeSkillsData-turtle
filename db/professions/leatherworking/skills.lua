@@ -1,19 +1,20 @@
 TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
     {
         {
+            ["id"] = 10550,
+            ["items"] = {
+                8388,
+            },
+            ["min_skill"] = 230,
+            ["name"] = {
+                ["English"] = "Nightscape Cloak",
+            },
+        },
+        {
             ["id"] = 9145,
             ["min_skill"] = 125,
             ["name"] = {
-                ["Chinese"] = "造弓师手套",
                 ["English"] = "Fletcher's Gloves",
-                ["French"] = "Gants de fabricant d'arcs",
-                ["German"] = "Pfeilmacherhandschuhe",
-                ["Korean"] = "활장이 장갑",
-                ["Mexican"] = "Guantes de flechero",
-                ["Portuguese"] = "Luvas do Seteiro",
-                ["Russian"] = "Перчатки Флетчера",
-                ["Spanish"] = "Guantes de Fletcher",
-                ["Taiwanese"] = "造弓師手套",
             },
             ["trainers"] = {
                 ["price"] = 1500,

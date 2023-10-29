@@ -1077,4 +1077,21 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             },
             ["zone_id"] = 357,
         },
+        {
+            ["id"] = 5565,
+            ["name"] = {
+                ["English"] = "Jillian Tanner",
+            },
+            ["reacts"] = "Alliance",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 30,
+                ["min"] = 30,
+            },
+            ["zone_id"] = 1519,
+            ["location"] = {
+                ["x"] = "67.1",
+                ["y"] = "49.4",
+            },
+        },
     }

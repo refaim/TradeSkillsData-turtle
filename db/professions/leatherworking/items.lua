@@ -1,6 +1,24 @@
 TRADE_SKILLS_DATA_TURTLE["items"]["Leatherworking"] =
     {
         {
+            ["id"] = 8388,
+            ["name"] = {
+                ["English"] = "Pattern: Nightscape Cloak",
+            },
+            ["quality"] = "uncommon",
+            ["vendors"] = {
+                ["price"] = 5000,
+                ["sources"] = {
+                    5128,
+                    5565,
+                    4589,
+                    3005,
+                    4225,
+                    3366,
+                },
+            },
+        },
+        {
             ["id"] = 83534,
             ["name"] = {
                 ["English"] = "Pattern: Dragonscale Leggings",
