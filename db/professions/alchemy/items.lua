@@ -82,4 +82,20 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Alchemy"] =
                 40873,
             },
         },
+        {
+            ["id"] = 13517,
+            ["name"] = {
+                ["English"] = "Recipe: Alchemist's Stone",
+            },
+            ["quality"] = "epic",
+            ["drops"] = {
+                ["sources"] = {
+                    61221,
+                    61222,
+                    61223,
+                    61224,
+                    61225,
+                },
+            },
+        },
     }

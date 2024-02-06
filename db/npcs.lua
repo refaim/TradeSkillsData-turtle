@@ -1275,4 +1275,342 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             },
             ["zone_id"] = 100006,
         },
+        {
+            ["id"] = 61112,
+            ["name"] = {
+                ["English"] = "Chef Danonzo Laxjolt",
+            },
+            ["reacts"] = "Neutral",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 59,
+                ["min"] = 59,
+            },
+            ["zone_id"] = 100008,
+        },
+        {
+            ["id"] = 80961,
+            ["name"] = {
+                ["English"] = "Vanessa Clang",
+            },
+            ["reacts"] = "Horde",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = "??",
+                ["min"] = "??",
+            },
+            ["zone_id"] = 14,
+        },
+        {
+            ["id"] = 60717,
+            ["name"] = {
+                ["English"] = "Hateforge Chemist",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 53,
+                ["min"] = 52,
+            },
+            ["zone_id"] = 100007,
+        },
+        {
+            ["id"] = 60718,
+            ["name"] = {
+                ["English"] = "Hateforge Cleric",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 52,
+                ["min"] = 51,
+            },
+            ["zone_id"] = 100007,
+        },
+        {
+            ["id"] = 60719,
+            ["name"] = {
+                ["English"] = "Hateforge Craftsman",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 52,
+                ["min"] = 50,
+            },
+            ["zone_id"] = 100007,
+        },
+        {
+            ["id"] = 60720,
+            ["name"] = {
+                ["English"] = "Hateforge Engineer",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 52,
+                ["min"] = 51,
+            },
+            ["zone_id"] = 100007,
+        },
+        {
+            ["id"] = 60721,
+            ["name"] = {
+                ["English"] = "Hateforge Miner",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 50,
+                ["min"] = 49,
+            },
+            ["zone_id"] = 100007,
+        },
+        {
+            ["id"] = 60722,
+            ["name"] = {
+                ["English"] = "Hateforge Overseer",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 53,
+                ["min"] = 53,
+            },
+            ["zone_id"] = 100007,
+        },
+        {
+            ["id"] = 60723,
+            ["name"] = {
+                ["English"] = "Hateforge Taskmaster",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 53,
+                ["min"] = 52,
+            },
+            ["zone_id"] = 100007,
+        },
+        {
+            ["id"] = 60724,
+            ["name"] = {
+                ["English"] = "Hateforge Warden",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 53,
+                ["min"] = 53,
+            },
+            ["zone_id"] = 100007,
+        },
+        {
+            ["id"] = 60725,
+            ["name"] = {
+                ["English"] = "Twilight Fireblade",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 54,
+                ["min"] = 54,
+            },
+            ["zone_id"] = 100007,
+        },
+        {
+            ["id"] = 60831,
+            ["name"] = {
+                ["English"] = "Hateforge Geologist",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 51,
+                ["min"] = 49,
+            },
+            ["zone_id"] = 46,
+        },
+        {
+            ["id"] = 60716,
+            ["name"] = {
+                ["English"] = "Hateforge Watcher",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 49,
+                ["min"] = 48,
+            },
+            ["zone_id"] = 46,
+        },
+        {
+            ["id"] = 60830,
+            ["name"] = {
+                ["English"] = "Hateforge Excavator",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 48,
+                ["min"] = 47,
+            },
+            ["zone_id"] = 46,
+        },
+        {
+            ["id"] = 60836,
+            ["name"] = {
+                ["English"] = "Slaver Vilegrip",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 52,
+                ["min"] = 51,
+            },
+            ["zone_id"] = 46,
+        },
+        {
+            ["id"] = 10196,
+            ["name"] = {
+                ["English"] = "General Colbatann",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 57,
+                ["min"] = 56,
+            },
+            ["zone_id"] = 618,
+        },
+        {
+            ["id"] = 10663,
+            ["name"] = {
+                ["English"] = "Manaclaw",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 58,
+                ["min"] = 58,
+            },
+            ["zone_id"] = 618,
+        },
+        {
+            ["id"] = 10202,
+            ["name"] = {
+                ["English"] = "Azurous",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 59,
+                ["min"] = 59,
+            },
+            ["zone_id"] = 618,
+        },
+        {
+            ["id"] = 81265,
+            ["name"] = {
+                ["English"] = "Antnormi",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 60,
+                ["min"] = 60,
+            },
+            ["zone_id"] = 618,
+        },
+        {
+            ["id"] = 10662,
+            ["name"] = {
+                ["English"] = "Spellmaw",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 56,
+                ["min"] = 56,
+            },
+            ["zone_id"] = 618,
+        },
+        {
+            ["id"] = 10664,
+            ["name"] = {
+                ["English"] = "Scryer",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 60,
+                ["min"] = 60,
+            },
+            ["zone_id"] = 618,
+        },
+        {
+            ["id"] = 10661,
+            ["name"] = {
+                ["English"] = "Spell Eater",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 56,
+                ["min"] = 54,
+            },
+            ["zone_id"] = 618,
+        },
+        {
+            ["id"] = 10660,
+            ["name"] = {
+                ["English"] = "Cobalt Broodling",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 56,
+                ["min"] = 55,
+            },
+            ["zone_id"] = 618,
+        },
+        {
+            ["id"] = 10659,
+            ["name"] = {
+                ["English"] = "Cobalt Whelp",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 55,
+                ["min"] = 54,
+            },
+            ["zone_id"] = 618,
+        },
+        {
+            ["id"] = 7435,
+            ["name"] = {
+                ["English"] = "Cobalt Wyrmkin",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 56,
+                ["min"] = 55,
+            },
+            ["zone_id"] = 618,
+        },
+        {
+            ["id"] = 7436,
+            ["name"] = {
+                ["English"] = "Cobalt Scalebane",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 57,
+                ["min"] = 56,
+            },
+            ["zone_id"] = 618,
+        },
     }

@@ -285,7 +285,7 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
         {
             ["id"] = 83518,
             ["name"] = {
-                ["English"] = "Plans: Imperial Plate Gloves",
+                ["English"] = "Plans: Imperial Plate Gauntlets",
             },
             ["quality"] = "uncommon",
             ["quests"] = {
@@ -324,7 +324,7 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Dream's Herald",
             },
-            ["quality"] = "epic",
+            ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
                 ["level_id"] = 8,
@@ -363,7 +363,7 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
             ["name"] = {
                 ["English"] = "Plans: Fiery Chain Breastplate",
             },
-            ["quality"] = "epic",
+            ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 120000,
                 ["sources"] = {
@@ -701,6 +701,160 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
                 ["sources"] = {
                     3356,
                     5512,
+                },
+            },
+        },
+        {
+            ["id"] = 7994,
+            ["name"] = {
+                ["English"] = "Plans: Orcish War Leggings",
+            },
+            ["quality"] = "uncommon",
+            ["quests"] = {
+                2756,
+            },
+        },
+        {
+            ["id"] = 84010,
+            ["name"] = {
+                ["English"] = "Plans: Hateforge Belt",
+            },
+            ["quality"] = "rare",
+            ["drops"] = {
+                ["sources"] = {
+                    60717,
+                    60718,
+                    60719,
+                    60720,
+                    60721,
+                    60722,
+                    60723,
+                    60724,
+                    60725,
+                    60831,
+                    60716,
+                    60830,
+                    60836,
+                },
+            },
+        },
+        {
+            ["id"] = 84011,
+            ["name"] = {
+                ["English"] = "Plans: Hateforge Boots",
+            },
+            ["quality"] = "rare",
+            ["drops"] = {
+                ["sources"] = {
+                    60717,
+                    60718,
+                    60719,
+                    60720,
+                    60721,
+                    60722,
+                    60723,
+                    60724,
+                    60725,
+                    60831,
+                    60716,
+                    60830,
+                    60836,
+                },
+            },
+        },
+        {
+            ["id"] = 84013,
+            ["name"] = {
+                ["English"] = "Plans: Hateforge Cuirass",
+            },
+            ["quality"] = "rare",
+            ["drops"] = {
+                ["sources"] = {
+                    60717,
+                    60718,
+                    60719,
+                    60720,
+                    60721,
+                    60722,
+                    60723,
+                    60724,
+                    60725,
+                    60831,
+                    60716,
+                    60830,
+                    60836,
+                },
+            },
+        },
+        {
+            ["id"] = 84012,
+            ["name"] = {
+                ["English"] = "Plans: Hateforge Grips",
+            },
+            ["quality"] = "epic",
+            ["drops"] = {
+                ["sources"] = {
+                    60717,
+                    60718,
+                    60719,
+                    60720,
+                    60721,
+                    60722,
+                    60723,
+                    60724,
+                    60725,
+                    60831,
+                    60716,
+                    60830,
+                    60836,
+                },
+            },
+        },
+        {
+            ["id"] = 84014,
+            ["name"] = {
+                ["English"] = "Plans: Hateforge Helmet",
+            },
+            ["quality"] = "rare",
+            ["drops"] = {
+                ["sources"] = {
+                    60717,
+                    60718,
+                    60719,
+                    60720,
+                    60721,
+                    60722,
+                    60723,
+                    60724,
+                    60725,
+                    60831,
+                    60716,
+                    60830,
+                    60836,
+                },
+            },
+        },
+        {
+            ["id"] = 84015,
+            ["name"] = {
+                ["English"] = "Plans: Hateforge Leggings",
+            },
+            ["quality"] = "rare",
+            ["drops"] = {
+                ["sources"] = {
+                    60717,
+                    60718,
+                    60719,
+                    60720,
+                    60721,
+                    60722,
+                    60723,
+                    60724,
+                    60725,
+                    60831,
+                    60716,
+                    60830,
+                    60836,
                 },
             },
         },

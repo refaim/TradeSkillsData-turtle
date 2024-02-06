@@ -207,4 +207,67 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Leatherworking"] =
                 },
             },
         },
+        {
+            ["id"] = 61228,
+            ["name"] = {
+                ["English"] = "Book: Craft Dreamhide",
+            },
+            ["quality"] = "uncommon",
+            ["quests"] = {
+                40895,
+            },
+        },
+        {
+            ["id"] = 62000,
+            ["name"] = {
+                ["English"] = "Pattern: Blue Dragonscale Boots",
+            },
+            ["quality"] = "rare",
+            ["drops"] = {
+                ["sources"] = {
+                    10196,
+                    10663,
+                    10202,
+                    81265,
+                    10662,
+                    10664,
+                    10661,
+                    10660,
+                    10659,
+                    7435,
+                    7436,
+                    7437,
+                },
+            },
+        },
+        {
+            ["id"] = 4300,
+            ["name"] = {
+                ["English"] = "Pattern: Guardian Bracers",
+            },
+            ["quality"] = "uncommon",
+            ["drops"] = {
+                ["range"] = {
+                    ["min_xp_level"] = 30,
+                    ["max_xp_level"] = 50,
+                },
+            },
+        },
+        {
+            ["id"] = 83546,
+            ["name"] = {
+                ["English"] = "Pattern: Verdant Dreamer's Breastplate",
+            },
+            ["quality"] = "epic",
+            ["vendors"] = {
+                ["price"] = 60000,
+                ["sources"] = {
+                    15293,
+                },
+            },
+            ["reputation"] = {
+                ["faction_id"] = 609,
+                ["level_id"] = 8,
+            },
+        },
     }

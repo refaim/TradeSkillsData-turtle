@@ -30,4 +30,34 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Cooking"] =
                 ["English"] = "Le Fishe Au Chocolat",
             },
         },
+        {
+            ["id"] = 57049,
+            ["items"] = {
+                60980,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Danonzo's Tel'Abim Delight",
+            },
+        },
+        {
+            ["id"] = 57051,
+            ["items"] = {
+                60981,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Danonzo's Tel'Abim Medley",
+            },
+        },
+        {
+            ["id"] = 57047,
+            ["items"] = {
+                60979,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Danonzo's Tel'Abim Surprise",
+            },
+        },
     }

@@ -5,7 +5,7 @@ local function patch(base, diff)
     ---@type table<number, Entity>
     local id_to_entity = {}
 
-    for _, entity in ipairs(base) do
+    for _, entity in ipairs(base or {}) do
         id_to_entity[entity.id] = entity
     end
 
@@ -32,6 +32,7 @@ local professions = {
     "Engineering",
     "First Aid",
     "Leatherworking",
+    "Mining",
     "Tailoring",
 }
 

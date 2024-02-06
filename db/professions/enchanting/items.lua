@@ -151,4 +151,16 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Enchanting"] =
                 },
             },
         },
+        {
+            ["id"] = 61733,
+            ["name"] = {
+                ["English"] = "Formula: Eternal Dreamstone Shard",
+            },
+            ["quality"] = "legendary",
+            ["drops"] = {
+                ["sources"] = {
+                    60748,
+                },
+            },
+        },
     }

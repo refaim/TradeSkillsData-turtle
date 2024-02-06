@@ -280,7 +280,7 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             ["id"] = 46647,
             ["min_skill"] = 270,
             ["name"] = {
-                ["English"] = "Pillager's Robes",
+                ["English"] = "Pillager's Robe",
             },
             ["trainers"] = {
                 ["price"] = 3500,
@@ -400,6 +400,16 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
             ["min_skill"] = 300,
             ["name"] = {
                 ["English"] = "Dreamthread Gloves",
+            },
+        },
+        {
+            ["id"] = 45453,
+            ["items"] = {
+                61227,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Dreamthread",
             },
         },
     }

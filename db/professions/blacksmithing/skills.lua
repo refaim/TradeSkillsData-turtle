@@ -610,4 +610,64 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
                 ["English"] = "Thorium Greatsword",
             },
         },
+        {
+            ["id"] = 47032,
+            ["items"] = {
+                84010,
+            },
+            ["min_skill"] = 275,
+            ["name"] = {
+                ["English"] = "Hateforge Belt",
+            },
+        },
+        {
+            ["id"] = 47034,
+            ["items"] = {
+                84011,
+            },
+            ["min_skill"] = 275,
+            ["name"] = {
+                ["English"] = "Hateforge Boots",
+            },
+        },
+        {
+            ["id"] = 47030,
+            ["items"] = {
+                84013,
+            },
+            ["min_skill"] = 290,
+            ["name"] = {
+                ["English"] = "Hateforge Cuirass",
+            },
+        },
+        {
+            ["id"] = 47033,
+            ["items"] = {
+                84012,
+            },
+            ["min_skill"] = 290,
+            ["name"] = {
+                ["English"] = "Hateforge Grips",
+            },
+        },
+        {
+            ["id"] = 47029,
+            ["items"] = {
+                84014,
+            },
+            ["min_skill"] = 290,
+            ["name"] = {
+                ["English"] = "Hateforge Helmet",
+            },
+        },
+        {
+            ["id"] = 47031,
+            ["items"] = {
+                84015,
+            },
+            ["min_skill"] = 290,
+            ["name"] = {
+                ["English"] = "Hateforge Leggings",
+            },
+        },
     }

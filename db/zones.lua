@@ -77,4 +77,37 @@ TRADE_SKILLS_DATA_TURTLE["zones"] =
                 ["max"] = 60,
             },
         },
+        {
+            ["cont_id"] = 5,
+            ["id"] = 100007,
+            ["name"] = {
+                ["English"] = "Hateforge Quarry",
+            },
+            ["levels"] = {
+                ["min"] = 52,
+                ["max"] = 60,
+            },
+        },
+        {
+            ["cont_id"] = 1,
+            ["id"] = 100008,
+            ["name"] = {
+                ["English"] = "Tel'Abim",
+            },
+            ["levels"] = {
+                ["min"] = 54,
+                ["max"] = 60,
+            },
+        },
+        {
+            ["cont_id"] = 1,
+            ["id"] = 100009,
+            ["name"] = {
+                ["English"] = "Blackstone Island",
+            },
+            ["levels"] = {
+                ["min"] = 1,
+                ["max"] = 10,
+            },
+        },
     }

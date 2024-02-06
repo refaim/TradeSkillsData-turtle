@@ -339,4 +339,46 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             },
             ["specialisation"] = 10656,
         },
+        {
+            ["id"] = 45455,
+            ["items"] = {
+                61228,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Dreamhide",
+            },
+        },
+        {
+            ["id"] = 54001,
+            ["items"] = {
+                62000,
+            },
+            ["min_skill"] = 290,
+            ["name"] = {
+                ["English"] = "Blue Dragonscale Boots",
+            },
+            ["specialisation"] = 10656,
+        },
+        {
+            ["id"] = 3777,
+            ["items"] = {
+                4300,
+            },
+            ["min_skill"] = 195,
+            ["name"] = {
+                ["English"] = "Guardian Bracers",
+            },
+        },
+        {
+            ["id"] = 47035,
+            ["items"] = {
+                83546,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Verdant Dreamer's Breastplate",
+            },
+            ["specialisation"] = 10660,
+        },
     }

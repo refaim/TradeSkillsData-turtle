@@ -50,4 +50,14 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Engineering"] =
                 ["English"] = "Intricate Gyroscope Goggles",
             },
         },
+        {
+            ["id"] = 12722,
+            ["items"] = {
+                81196,
+            },
+            ["min_skill"] = 225,
+            ["name"] = {
+                ["English"] = "Goblin Radio",
+            },
+        },
     }

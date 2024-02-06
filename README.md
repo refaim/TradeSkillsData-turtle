@@ -7,6 +7,9 @@ Used in [MissingTradeSkillsList](https://github.com/refaim/MissingTradeSkillsLis
 
 ## Version History
 
+### v1.14.0 (Feb 7, 2024)
+* Add 20 missing recipes (affects almost all professions)
+
 ### v1.13.0 (Oct 29, 2023)
 * Alchemy: Add 'Recipe: Greater Holy Protection Potion'
 * Blacksmithing: Add nine missing recipes

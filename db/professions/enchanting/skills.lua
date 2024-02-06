@@ -115,4 +115,14 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Enchanting"] =
                 ["English"] = "Enchant Boots - Vampirism",
             },
         },
+        {
+            ["id"] = 57518,
+            ["items"] = {
+                61733,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Eternal Dreamstone Shard",
+            },
+        },
     }

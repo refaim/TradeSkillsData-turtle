@@ -185,4 +185,14 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Tailoring"] =
                 40904,
             },
         },
+        {
+            ["id"] = 61227,
+            ["name"] = {
+                ["English"] = "Book: Craft Dreamthread",
+            },
+            ["quality"] = "uncommon",
+            ["quests"] = {
+                40900,
+            },
+        },
     }

@@ -220,4 +220,64 @@ TRADE_SKILLS_DATA_TURTLE["quests"] =
                 61616,
             },
         },
+        {
+            ["id"] = 40753,
+            ["min_xp_level"] = 48,
+            ["name"] = {
+                ["English"] = "Danonzo's Tel'Abim Delight",
+            },
+            ["npcs"] = {
+                61112,
+            },
+        },
+        {
+            ["id"] = 40754,
+            ["min_xp_level"] = 48,
+            ["name"] = {
+                ["English"] = "Danonzo's Tel'Abim Medley",
+            },
+            ["npcs"] = {
+                61112,
+            },
+        },
+        {
+            ["id"] = 40752,
+            ["min_xp_level"] = 48,
+            ["name"] = {
+                ["English"] = "Danonzo's Tel'Abim Surprise",
+            },
+            ["npcs"] = {
+                61112,
+            },
+        },
+        {
+            ["id"] = 40895,
+            ["min_xp_level"] = 55,
+            ["name"] = {
+                ["English"] = "Crafting Dreamhide",
+            },
+            ["npcs"] = {
+                61492,
+            },
+        },
+        {
+            ["id"] = 40900,
+            ["min_xp_level"] = 55,
+            ["name"] = {
+                ["English"] = "Crafting Dreamthread",
+            },
+            ["npcs"] = {
+                61492,
+            },
+        },
+        {
+            ["id"] = 40886,
+            ["min_xp_level"] = 55,
+            ["name"] = {
+                ["English"] = "Smelting Dreamsteel",
+            },
+            ["npcs"] = {
+                61491,
+            },
+        },
     }

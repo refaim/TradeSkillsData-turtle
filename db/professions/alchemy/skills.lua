@@ -50,4 +50,14 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Alchemy"] =
                 ["English"] = "Dreamshard Elixir",
             },
         },
+        {
+            ["id"] = 17632,
+            ["items"] = {
+                13517,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Alchemist's Stone",
+            },
+        },
     }
