@@ -25,9 +25,9 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Engineering"] =
             ["items"] = {
                 83510,
             },
-            ["min_skill"] = 120,
+            ["min_skill"] = 125,
             ["name"] = {
-                ["English"] = "Portable Wormhole Generator: Stormwind",
+                ["English"] = "Portable Wormhole Generator - Stormwind",
             },
         },
         {
@@ -35,9 +35,9 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Engineering"] =
             ["items"] = {
                 83511,
             },
-            ["min_skill"] = 120,
+            ["min_skill"] = 125,
             ["name"] = {
-                ["English"] = "Portable Wormhole Generator: Orgrimmar",
+                ["English"] = "Portable Wormhole Generator - Orgrimmar",
             },
         },
         {
