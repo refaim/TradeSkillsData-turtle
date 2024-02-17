@@ -858,4 +858,22 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Blacksmithing"] =
                 },
             },
         },
+        {
+            ["id"] = 51265,
+            ["name"] = {
+                ["English"] = "Plans: Blast Shield",
+            },
+            ["quality"] = "uncommon",
+            ["drops"] = {
+                ["sources"] = {
+                    61670,
+                    61671,
+                    61672,
+                    61673,
+                    61674,
+                    61794,
+                    61795,
+                },
+            },
+        },
     }

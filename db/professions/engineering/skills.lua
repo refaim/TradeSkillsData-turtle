@@ -60,4 +60,14 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Engineering"] =
                 ["English"] = "Goblin Radio",
             },
         },
+        {
+            ["id"] = 1708151578,
+            ["items"] = {
+                51269,
+            },
+            ["min_skill"] = 75,
+            ["name"] = {
+                ["English"] = "Unstable Mining Dynamite",
+            },
+        },
     }

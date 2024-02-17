@@ -125,4 +125,14 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Enchanting"] =
                 ["English"] = "Eternal Dreamstone Shard",
             },
         },
+        {
+            ["id"] = 1708151578,
+            ["items"] = {
+                51286,
+            },
+            ["min_skill"] = 75,
+            ["name"] = {
+                ["English"] = "Enchant 2H Weapon - Minor Intellect",
+            },
+        },
     }

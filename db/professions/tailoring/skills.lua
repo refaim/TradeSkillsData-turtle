@@ -412,4 +412,14 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Tailoring"] =
                 ["English"] = "Dreamthread",
             },
         },
+        {
+            ["id"] = 1708151578,
+            ["items"] = {
+                51277,
+            },
+            ["min_skill"] = 75,
+            ["name"] = {
+                ["English"] = "Gloves of Manathirst",
+            },
+        },
     }

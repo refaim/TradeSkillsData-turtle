@@ -110,4 +110,15 @@ TRADE_SKILLS_DATA_TURTLE["zones"] =
                 ["max"] = 10,
             },
         },
+        {
+            ["cont_id"] = 2,
+            ["id"] = 100010,
+            ["name"] = {
+                ["English"] = "Thalassian Highlands",
+            },
+            ["levels"] = {
+                ["min"] = 1,
+                ["max"] = 10,
+            },
+        },
     }

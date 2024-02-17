@@ -381,4 +381,25 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Leatherworking"] =
             },
             ["specialisation"] = 10660,
         },
+        {
+            ["id"] = 1708150291,
+            ["items"] = {
+                51285,
+            },
+            ["min_skill"] = 75,
+            ["name"] = {
+                ["English"] = "Lynxstep Boots",
+            },
+        },
+        {
+            ["id"] = 57008,
+            ["items"] = {
+                60780,
+            },
+            ["min_skill"] = 265,
+            ["name"] = {
+                ["English"] = "Breastplate of the Earth",
+            },
+            ["specialisation"] = 10658,
+        },
     }

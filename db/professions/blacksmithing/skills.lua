@@ -670,4 +670,14 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Blacksmithing"] =
                 ["English"] = "Hateforge Leggings",
             },
         },
+        {
+            ["id"] = 1708151582,
+            ["items"] = {
+                51265,
+            },
+            ["min_skill"] = 75,
+            ["name"] = {
+                ["English"] = "Blast Shield",
+            },
+        },
     }

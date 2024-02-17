@@ -109,4 +109,22 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Engineering"] =
                 ["level_id"] = 7,
             },
         },
+        {
+            ["id"] = 51269,
+            ["name"] = {
+                ["English"] = "Schematic: Unstable Mining Dynamite",
+            },
+            ["quality"] = "uncommon",
+            ["drops"] = {
+                ["sources"] = {
+                    61670,
+                    61671,
+                    61672,
+                    61673,
+                    61674,
+                    61794,
+                    61795,
+                },
+            },
+        },
     }

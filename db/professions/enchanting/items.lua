@@ -163,4 +163,21 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Enchanting"] =
                 },
             },
         },
+        {
+            ["id"] = 51286,
+            ["name"] = {
+                ["English"] = "Formula: Enchant 2H Weapon - Minor Intellect",
+            },
+            ["quality"] = "uncommon",
+            ["drops"] = {
+                ["sources"] = {
+                    61780,
+                    61781,
+                    61782,
+                    61784,
+                    61788,
+                    61791,
+                },
+            },
+        },
     }

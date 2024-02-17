@@ -270,4 +270,41 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Leatherworking"] =
                 ["level_id"] = 8,
             },
         },
+        {
+            ["id"] = 51285,
+            ["name"] = {
+                ["English"] = "Pattern: Lynxstep Boots",
+            },
+            ["quality"] = "uncommon",
+            ["drops"] = {
+                ["sources"] = {
+                    61780,
+                    61781,
+                    61782,
+                    61784,
+                    61788,
+                    61791,
+                },
+            },
+        },
+        {
+            ["id"] = 60780,
+            ["name"] = {
+                ["English"] = "Pattern: Breastplate of the Earth",
+            },
+            ["quality"] = "rare",
+            ["drops"] = {
+                ["sources"] = {
+                    11793,
+                    11794,
+                    12219,
+                    12220,
+                    12223,
+                    12224,
+                    12225,
+                    12237,
+                    12258,
+                },
+            },
+        },
     }

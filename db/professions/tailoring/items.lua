@@ -195,4 +195,21 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Tailoring"] =
                 40900,
             },
         },
+        {
+            ["id"] = 51277,
+            ["name"] = {
+                ["English"] = "Pattern: Gloves of Manathirst",
+            },
+            ["quality"] = "uncommon",
+            ["drops"] = {
+                ["sources"] = {
+                    61780,
+                    61781,
+                    61782,
+                    61784,
+                    61788,
+                    61791,
+                },
+            },
+        },
     }

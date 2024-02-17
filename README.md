@@ -7,6 +7,9 @@ Used in [MissingTradeSkillsList](https://github.com/refaim/MissingTradeSkillsLis
 
 ## Version History
 
+### v1.15 (Feb 17, 2024)
+* Add 6 missing recipes
+
 ### v1.14.1 (Feb 17, 2024)
 * Fix wormhole generator names and requirements
 

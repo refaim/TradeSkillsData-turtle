@@ -1613,4 +1613,290 @@ TRADE_SKILLS_DATA_TURTLE["npcs"] =
             },
             ["zone_id"] = 618,
         },
+        {
+            ["id"] = 61791,
+            ["name"] = {
+                ["English"] = "Kal'mantir the Mad",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 12,
+                ["min"] = 12,
+            },
+            ["zone_id"] = 100010,
+        },
+        {
+            ["id"] = 61788,
+            ["name"] = {
+                ["English"] = "Eldin Sunstrider",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 11,
+                ["min"] = 11,
+            },
+            ["zone_id"] = 100010,
+        },
+        {
+            ["id"] = 61784,
+            ["name"] = {
+                ["English"] = "Gilaras Sunfury",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 10,
+                ["min"] = 10,
+            },
+            ["zone_id"] = 100010,
+        },
+        {
+            ["id"] = 61782,
+            ["name"] = {
+                ["English"] = "Blood Elf Marauder",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 10,
+                ["min"] = 8,
+            },
+            ["zone_id"] = 100010,
+        },
+        {
+            ["id"] = 61781,
+            ["name"] = {
+                ["English"] = "Blood Elf Darkcaster",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 10,
+                ["min"] = 8,
+            },
+            ["zone_id"] = 100010,
+        },
+        {
+            ["id"] = 61780,
+            ["name"] = {
+                ["English"] = "Blood Elf Ranger",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 9,
+                ["min"] = 8,
+            },
+            ["zone_id"] = 100010,
+        },
+        {
+            ["id"] = 61670,
+            ["name"] = {
+                ["English"] = "Gelwex Goldfingers",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 11,
+                ["min"] = 11,
+            },
+            ["zone_id"] = 100009,
+        },
+        {
+            ["id"] = 61671,
+            ["name"] = {
+                ["English"] = "Supervisor Laggle",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 8,
+                ["min"] = 8,
+            },
+            ["zone_id"] = 100009,
+        },
+        {
+            ["id"] = 61672,
+            ["name"] = {
+                ["English"] = "Venture Co. Instigator",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 8,
+                ["min"] = 7,
+            },
+            ["zone_id"] = 100009,
+        },
+        {
+            ["id"] = 61673,
+            ["name"] = {
+                ["English"] = "Venture Co. Thug",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 10,
+                ["min"] = 9,
+            },
+            ["zone_id"] = 100009,
+        },
+        {
+            ["id"] = 61674,
+            ["name"] = {
+                ["English"] = "Venture Co. Drifter",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 9,
+                ["min"] = 8,
+            },
+            ["zone_id"] = 100009,
+        },
+        {
+            ["id"] = 61794,
+            ["name"] = {
+                ["English"] = "Vanessa Moneybutton",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 12,
+                ["min"] = 12,
+            },
+            ["zone_id"] = 100009,
+        },
+        {
+            ["id"] = 61795,
+            ["name"] = {
+                ["English"] = "Dex Lodespark",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 10,
+                ["min"] = 10,
+            },
+            ["zone_id"] = 100009,
+        },
+        {
+            ["id"] = 12237,
+            ["name"] = {
+                ["English"] = "Meshlok the Harvester",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 48,
+                ["min"] = 48,
+            },
+            ["zone_id"] = 2100,
+        },
+        {
+            ["id"] = 12225,
+            ["name"] = {
+                ["English"] = "Celebras the Cursed",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 49,
+                ["min"] = 49,
+            },
+            ["zone_id"] = 2100,
+        },
+        {
+            ["id"] = 12258,
+            ["name"] = {
+                ["English"] = "Razorlash",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 48,
+                ["min"] = 48,
+            },
+            ["zone_id"] = 2100,
+        },
+        {
+            ["id"] = 11793,
+            ["name"] = {
+                ["English"] = "Celebrian Dryad",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 46,
+                ["min"] = 45,
+            },
+            ["zone_id"] = 2100,
+        },
+        {
+            ["id"] = 11794,
+            ["name"] = {
+                ["English"] = "Sister of Celebrian",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 47,
+                ["min"] = 45,
+            },
+            ["zone_id"] = 2100,
+        },
+        {
+            ["id"] = 12219,
+            ["name"] = {
+                ["English"] = "Barbed Lasher",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 45,
+                ["min"] = 44,
+            },
+            ["zone_id"] = 2100,
+        },
+        {
+            ["id"] = 12220,
+            ["name"] = {
+                ["English"] = "Constrictor Vine",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 46,
+                ["min"] = 45,
+            },
+            ["zone_id"] = 2100,
+        },
+        {
+            ["id"] = 12223,
+            ["name"] = {
+                ["English"] = "Cavern Lurker",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 46,
+                ["min"] = 45,
+            },
+            ["zone_id"] = 2100,
+        },
+        {
+            ["id"] = 12224,
+            ["name"] = {
+                ["English"] = "Cavern Shambler",
+            },
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 47,
+                ["min"] = 46,
+            },
+            ["zone_id"] = 2100,
+        },
     }
