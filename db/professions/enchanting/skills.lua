@@ -126,13 +126,33 @@ TRADE_SKILLS_DATA_TURTLE["skills"]["Enchanting"] =
             },
         },
         {
-            ["id"] = 1708151578,
+            ["id"] = 45071,
             ["items"] = {
                 51286,
             },
             ["min_skill"] = 75,
             ["name"] = {
                 ["English"] = "Enchant 2H Weapon - Minor Intellect",
+            },
+        },
+        {
+            ["id"] = 57030,
+            ["items"] = {
+                60969,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Enchant Bracer - Greater Agility",
+            },
+        },
+        {
+            ["id"] = 57028,
+            ["items"] = {
+                60966,
+            },
+            ["min_skill"] = 300,
+            ["name"] = {
+                ["English"] = "Enchant Bracer - Spell Power",
             },
         },
     }

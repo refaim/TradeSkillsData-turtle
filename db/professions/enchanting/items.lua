@@ -180,4 +180,26 @@ TRADE_SKILLS_DATA_TURTLE["items"]["Enchanting"] =
                 },
             },
         },
+        {
+            ["id"] = 60969,
+            ["name"] = {
+                ["English"] = "Formula: Enchant Bracer - Greater Agility",
+            },
+            ["quality"] = "uncommon",
+            ["reputation"] = {
+                ["faction_id"] = 93,
+                ["level_id"] = 7,
+            },
+        },
+        {
+            ["id"] = 60966,
+            ["name"] = {
+                ["English"] = "Formula: Enchant Bracer - Spell Power",
+            },
+            ["quality"] = "uncommon",
+            ["reputation"] = {
+                ["faction_id"] = 92,
+                ["level_id"] = 7,
+            },
+        },
     }
