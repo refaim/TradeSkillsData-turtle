@@ -7,6 +7,9 @@ Used in [MissingTradeSkillsList](https://github.com/refaim/MissingTradeSkillsLis
 
 ## Version History
 
+### v1.16 (June 20, 2024)
+* Add 2 missing enchants and fix one enchant's spell ID
+
 ### v1.15 (Feb 17, 2024)
 * Add 6 missing recipes
 
