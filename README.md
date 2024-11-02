@@ -1,3 +1,9 @@
+### ⚠️ Repository Archived
+This repository is no longer maintained. 
+Please use the new library: [LibCrafts](https://github.com/refaim/LibCrafts-1.0)
+
+---
+
 A Turtle WoW database extension for [TradeSkillsData](https://github.com/refaim/TradeSkillsData).
 
 Used in [MissingTradeSkillsList](https://github.com/refaim/MissingTradeSkillsList).
