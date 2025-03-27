@@ -1,6 +1,9 @@
-### ⚠️ Repository Archived
-This repository is no longer maintained. 
-Please use the new library: [LibCrafts](https://github.com/refaim/LibCrafts-1.0)
+### ⚠️ Repository Notice
+**For Players:**
+If you only need to install [MissingTradeSkillsList](https://github.com/refaim/MissingTradeSkillsList/), you can safely install TradeSkillsData-turtle.
+
+**For Addon Developers:**
+If you intend to use TradeSkillsData-turtle in your own addon, please note that this repository is now archived and no longer maintained. I recomment switching to [LibCrafts](https://github.com/refaim/LibCrafts-1.0) for continued support and updates.
 
 ---
 
