@@ -1,9 +1,9 @@
 ### ⚠️ Repository Notice
 **For Players:**
-If you only need to install [MissingTradeSkillsList](https://github.com/refaim/MissingTradeSkillsList/), you can safely install TradeSkillsData-turtle.
+While you can still install [MissingTradeSkillsList](https://github.com/refaim/MissingTradeSkillsList/) with TradeSkillsData-turtle, it is recommended to use **[MissingCrafts](https://github.com/refaim/MissingCrafts)** instead, which doesn't require TradeSkillsData-turtle. MissingCrafts contains more Turtle-specific recipes, including all Jewelcrafting recipes.
 
 **For Addon Developers:**
-If you intend to use TradeSkillsData-turtle in your own addon, please note that this repository is now archived and no longer maintained. I recomment switching to [LibCrafts](https://github.com/refaim/LibCrafts-1.0) for continued support and updates.
+If you intend to use TradeSkillsData-turtle in your own addon, please note that this repository is now archived and no longer maintained. It is recommended to switch to [LibCrafts](https://github.com/refaim/LibCrafts-1.0) for continued support and updates.
 
 ---
 
